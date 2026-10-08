@@ -1,0 +1,16 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// Two-column tables (the four ranking tables, plus the daily/surf criteria
+// table) share one fixed column split so the Info column lines up across them.
+.markdown-body table:has(> thead > tr > th:nth-child(2):last-child) {
+  display: table;
+  table-layout: fixed;
+  width: 100%;
+}
+.markdown-body table:has(> thead > tr > th:nth-child(2):last-child) th:first-child,
+.markdown-body table:has(> thead > tr > th:nth-child(2):last-child) td:first-child {
+  width: 36%;
+}
