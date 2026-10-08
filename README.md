@@ -86,51 +86,59 @@ Water resistance is noted where it changes the recommendation; [Surfing and wate
 
 Hybrids, which add zinc oxide or titanium dioxide to chemical filters, are listed here because their chemical filters carry most of the UVA load; they are marked (hybrid).
 
-- **C1** [**La Roche-Posay Anthelios UVMune 400 Invisible Fluid SPF50+**](#lrp-uvmune-400)\* — the only sunscreen here with a dedicated 370–400 nm filter (MCE), plus the EU UVA seal and water resistance.
-- **C2** [**Purito Seoul Daily Soft Touch SPF50+**](#purito-daily-soft-touch) — cleanest modern quartet: DHHB, ethylhexyl triazone, bemotrizinol and bisoctrizole, all at meaningful concentration, nothing photolabile.
-- **C3** [**SKIN1004 Hyalu-Cica Water-Fit Sun Serum SPF50+**](#skin1004-water-fit) — the same four filters as [C4](#boj-rice-probiotics) and [C5](#round-lab-birch); DHHB 4th, tied with [C5](#round-lab-birch) for the highest DHHB position here.
-- **C4** [**Beauty of Joseon Relief Sun: Rice + Probiotics SPF50+**](#boj-rice-probiotics) — the same four filters as [C3](#skin1004-water-fit), each one or two places lower in the list, behind 30% rice extract.
-- **C5** [**Round Lab Birch Juice Moisturizing Sunscreen SPF50+ PA++++**](#round-lab-birch)\* — the same four filters as [C3](#skin1004-water-fit) and [C4](#boj-rice-probiotics), at nearly the same positions as [C3](#skin1004-water-fit); ranked below them for two essential oils (pine and German chamomile) in the base.
-- **C6** [**La Roche-Posay Anthelios Lait Hydratant Ultra Résistant SPF50+**](#lrp-lait-ultra-resistant) (hybrid) — eight filters, EU UVA seal, water-resistant. Alcohol-heavy.
-- **C7** [**Shiseido Anessa Perfect UV Sunscreen Skincare Milk SPF50+ PA++++**](#anessa-perfect-uv-milk)\* (hybrid) — spectrally broad *and* 80-minute water resistant, with a film that hardens in water. The broadest-use product on the list.
-- **C8** [**COSRX Ultra-Light Invisible Sunscreen SPF50**](#cosrx-ultra-light) — excellent 320–360 nm, moderate 370–400.
-- **C9** [**Beauty of Joseon Relief Sun Aqua-Fresh SPF50+**](#boj-aqua-fresh) — same profile as [C8](#cosrx-ultra-light).
-- **C10** [**Round Lab Camellia Deep Collagen Firming Sun Serum SPF50+ PA++++**](#round-lab-camellia) — the same five filters as [C11](#haruharu-airyfit) and [C12](#numbuzin-no1), three of them slightly higher in the list than in [C11](#haruharu-airyfit); strong to ~360 nm, moderate beyond.
-- **C11** [**Haruharu Wonder Black Rice Moisture Airyfit Daily Sunscreen SPF50+ PA++++**](#haruharu-airyfit) — the same five filters as [C12](#numbuzin-no1) numbuzin at a far higher loading; strong to ~360 nm, moderate beyond. Fragrance- and alcohol-free; no water resistance.
-- **C12** [**numbuzin No.1 Clear Filter Sun Essence SPF50+**](#numbuzin-no1) — the same five filters as [C10](#round-lab-camellia) and [C11](#haruharu-airyfit) at a much lower loading; roughly half the formula is extract, listed before the first filter.
-- **C13** [**iUNIK Centella Calming Daily Sun Water SPF50+**](#iunik-sun-water) — texture-first; UVB rests on octisalate and ensulizole, the weakest backbone here.
-- **C14** [**Derma:B Everyday Sun Block SPF50+ PA++++**](#dermab-everyday)\* — a US-legacy filter set sold from Korea. Avobenzone is the only UVA filter and is lightly stabilised, so the PA++++ describes hour one.
+| Name | Info |
+|---|---|
+| **C1** [**La Roche-Posay Anthelios UVMune 400 Invisible Fluid SPF50+**](#lrp-uvmune-400)\* | The only sunscreen here with a dedicated 370–400 nm filter (MCE), plus the EU UVA seal and water resistance. |
+| **C2** [**Purito Seoul Daily Soft Touch SPF50+**](#purito-daily-soft-touch) | Cleanest modern quartet: DHHB, ethylhexyl triazone, bemotrizinol and bisoctrizole, all at meaningful concentration, nothing photolabile. |
+| **C3** [**SKIN1004 Hyalu-Cica Water-Fit Sun Serum SPF50+**](#skin1004-water-fit) | The same four filters as [C4](#boj-rice-probiotics) and [C5](#round-lab-birch); DHHB 4th, tied with [C5](#round-lab-birch) for the highest DHHB position here. |
+| **C4** [**Beauty of Joseon Relief Sun: Rice + Probiotics SPF50+**](#boj-rice-probiotics) | The same four filters as [C3](#skin1004-water-fit), each one or two places lower in the list, behind 30% rice extract. |
+| **C5** [**Round Lab Birch Juice Moisturizing Sunscreen SPF50+ PA++++**](#round-lab-birch)\* | The same four filters as [C3](#skin1004-water-fit) and [C4](#boj-rice-probiotics), at nearly the same positions as [C3](#skin1004-water-fit); ranked below them for two essential oils (pine and German chamomile) in the base. |
+| **C6** [**La Roche-Posay Anthelios Lait Hydratant Ultra Résistant SPF50+**](#lrp-lait-ultra-resistant) (hybrid) | Eight filters, EU UVA seal, water-resistant. Alcohol-heavy. |
+| **C7** [**Shiseido Anessa Perfect UV Sunscreen Skincare Milk SPF50+ PA++++**](#anessa-perfect-uv-milk)\* (hybrid) | Spectrally broad *and* 80-minute water resistant, with a film that hardens in water. The broadest-use product on the list. |
+| **C8** [**COSRX Ultra-Light Invisible Sunscreen SPF50**](#cosrx-ultra-light) | Excellent 320–360 nm, moderate 370–400. |
+| **C9** [**Beauty of Joseon Relief Sun Aqua-Fresh SPF50+**](#boj-aqua-fresh) | Same profile as [C8](#cosrx-ultra-light). |
+| **C10** [**Round Lab Camellia Deep Collagen Firming Sun Serum SPF50+ PA++++**](#round-lab-camellia) | The same five filters as [C11](#haruharu-airyfit) and [C12](#numbuzin-no1), three of them slightly higher in the list than in [C11](#haruharu-airyfit); strong to ~360 nm, moderate beyond. |
+| **C11** [**Haruharu Wonder Black Rice Moisture Airyfit Daily Sunscreen SPF50+ PA++++**](#haruharu-airyfit) | The same five filters as [C12](#numbuzin-no1) numbuzin at a far higher loading; strong to ~360 nm, moderate beyond. Fragrance- and alcohol-free; no water resistance. |
+| **C12** [**numbuzin No.1 Clear Filter Sun Essence SPF50+**](#numbuzin-no1) | The same five filters as [C10](#round-lab-camellia) and [C11](#haruharu-airyfit) at a much lower loading; roughly half the formula is extract, listed before the first filter. |
+| **C13** [**iUNIK Centella Calming Daily Sun Water SPF50+**](#iunik-sun-water) | Texture-first; UVB rests on octisalate and ensulizole, the weakest backbone here. |
+| **C14** [**Derma:B Everyday Sun Block SPF50+ PA++++**](#dermab-everyday)\* | A US-legacy filter set sold from Korea. Avobenzone is the only UVA filter and is lightly stabilised, so the PA++++ describes hour one. |
 
 <a id="chemical-caution"></a>
 
 #### Chemical filters: caution
 
-- ⚑ [**Bioré UV Athlizm Skin Protect Milk SPF50+ PA++++**](#biore-athlizm)\*§ (hybrid) — 80-minute water resistance plus a stated friction-resistance claim, penalised for octinoxate: photounstable, and restricted in Hawaii, Maui County and Palau ([Reef regulations](#reef-regulations)). *Filters alone: between C7 and C8.* **Caution:** contains D5 silicone, restricted in the EU from 2027 ([key](#silicone-key)).
-- ⚑ [**Isntree Hyaluronic Acid Watery Sun Gel SPF50+**](#isntree-watery-sun-gel)§ — strong UVA (bisoctrizole), compromised UVB (homosalate, octisalate). *Filters alone: between C7 and C8.* **Caution:** contains D5 silicone, restricted in the EU from 2027 ([key](#silicone-key)).
-- ⚑ [**COSRX Aloe Soothing Sun Cream SPF50 PA+++**](#cosrx-aloe)\*§ (hybrid) — no dedicated UVA-I filter, photounstable octinoxate leading the list, PA+++. *Filters alone: below C14.* **Caution:** contains D5 silicone, restricted in the EU from 2027 ([key](#silicone-key)).
+| Name | Info |
+|---|---|
+| ⚑ [**Bioré UV Athlizm Skin Protect Milk SPF50+ PA++++**](#biore-athlizm)\*§ (hybrid) | 80-minute water resistance plus a stated friction-resistance claim, penalised for octinoxate: photounstable, and restricted in Hawaii, Maui County and Palau ([Reef regulations](#reef-regulations)). *Filters alone: between C7 and C8.* **Caution:** contains D5 silicone, restricted in the EU from 2027 ([key](#silicone-key)). |
+| ⚑ [**Isntree Hyaluronic Acid Watery Sun Gel SPF50+**](#isntree-watery-sun-gel)§ | Strong UVA (bisoctrizole), compromised UVB (homosalate, octisalate). *Filters alone: between C7 and C8.* **Caution:** contains D5 silicone, restricted in the EU from 2027 ([key](#silicone-key)). |
+| ⚑ [**COSRX Aloe Soothing Sun Cream SPF50 PA+++**](#cosrx-aloe)\*§ (hybrid) | No dedicated UVA-I filter, photounstable octinoxate leading the list, PA+++. *Filters alone: below C14.* **Caution:** contains D5 silicone, restricted in the EU from 2027 ([key](#silicone-key)). |
 
 <a id="mineral-filters"></a>
 
 ### Mineral (physical) filters — durable in water when rated water-resistant; usually leave a white cast
 
-- **M1** [**Badger Adventure Mineral Sunscreen SPF 50**](#badger-adventure) — 25% zinc, tied with [M5](#waxhead-surf-paste) Waxhead for the most of any mineral here; 80-minute water resistance, four ingredients. Thick and white.
-- **M2** [**Blue Lizard Sensitive Mineral Sunscreen SPF 50+**](#blue-lizard-sensitive) — joint-highest mineral SPF (with [Haruharu Pure Mineral](#haruharu-pure-mineral)), fragrance-free, 80-minute water resistance, but the thinnest long-UVA tail of the minerals (10% zinc).
-- **M3** [**Badger Sport Mineral Sunscreen SPF 40**](#badger-sport) — [M1](#badger-adventure) at a lower dose, same 80-minute water resistance.
-- **M4** [**Innisfree Daily UV Defense Mineral Sunscreen SPF 45**](#innisfree-mineral) — good UVA/UVB ratio, total photostability, mid SPF, green tint.
-- **M5** [**Waxhead Tinted Face Surf Paste SPF 30**](#waxhead-surf-paste) — ranked here for *daily* use, where a wax paste is impractical. For surfing it moves to the top for nose, cheekbones and ears ([surfing](#surfing-and-water-sports)).
-- **M6** [**Badger Active Mineral Sunscreen SPF 30**](#badger-active) — lowest-dose Badger; 40-minute water resistance only.
-- **M7** [**Thrive Daily Sunscreen for Sensitive Skin SPF 30**](#thrive-sensitive) — with [SKIN1004 Air-Fit](#skin1004-air-fit-light), the lowest-irritancy profile on the list: no fragrance, essential oils or organic filters. Limited by magnitude, not tolerability.
-- **M8** [**Hero Superlight Sunscreen SPF 30**](#hero-superlight) — one of seven zinc-only SPF 30s ([M5](#waxhead-surf-paste)–[M9](#native-mineral-lotion), plus Thrive Balm and SKIN1004 Air-Fit under caution), which share the lowest UVB rating here. With [SKIN1004 Air-Fit](#skin1004-air-fit-light) and [M9](#native-mineral-lotion) it has the least zinc of the seven; gentle and accurate at what they claim. Only [SKIN1004 Air-Fit](#skin1004-air-fit-light) discloses a UVA grade (PA++++); US labels cannot carry one.
-- **M9** [**Native Mineral Sunscreen Lotion SPF 30**](#native-mineral-lotion) — same class as [M8](#hero-superlight).
+| Name | Info |
+|---|---|
+| **M1** [**Badger Adventure Mineral Sunscreen SPF 50**](#badger-adventure) | 25% zinc, tied with [M5](#waxhead-surf-paste) Waxhead for the most of any mineral here; 80-minute water resistance, four ingredients. Thick and white. |
+| **M2** [**Blue Lizard Sensitive Mineral Sunscreen SPF 50+**](#blue-lizard-sensitive) | Joint-highest mineral SPF (with [Haruharu Pure Mineral](#haruharu-pure-mineral)), fragrance-free, 80-minute water resistance, but the thinnest long-UVA tail of the minerals (10% zinc). |
+| **M3** [**Badger Sport Mineral Sunscreen SPF 40**](#badger-sport) | [M1](#badger-adventure) at a lower dose, same 80-minute water resistance. |
+| **M4** [**Innisfree Daily UV Defense Mineral Sunscreen SPF 45**](#innisfree-mineral) | Good UVA/UVB ratio, total photostability, mid SPF, green tint. |
+| **M5** [**Waxhead Tinted Face Surf Paste SPF 30**](#waxhead-surf-paste) | Ranked here for *daily* use, where a wax paste is impractical. For surfing it moves to the top for nose, cheekbones and ears ([surfing](#surfing-and-water-sports)). |
+| **M6** [**Badger Active Mineral Sunscreen SPF 30**](#badger-active) | Lowest-dose Badger; 40-minute water resistance only. |
+| **M7** [**Thrive Daily Sunscreen for Sensitive Skin SPF 30**](#thrive-sensitive) | With [SKIN1004 Air-Fit](#skin1004-air-fit-light), the lowest-irritancy profile on the list: no fragrance, essential oils or organic filters. Limited by magnitude, not tolerability. |
+| **M8** [**Hero Superlight Sunscreen SPF 30**](#hero-superlight) | One of seven zinc-only SPF 30s ([M5](#waxhead-surf-paste)–[M9](#native-mineral-lotion), plus Thrive Balm and SKIN1004 Air-Fit under caution), which share the lowest UVB rating here. With [SKIN1004 Air-Fit](#skin1004-air-fit-light) and [M9](#native-mineral-lotion) it has the least zinc of the seven; gentle and accurate at what they claim. Only [SKIN1004 Air-Fit](#skin1004-air-fit-light) discloses a UVA grade (PA++++); US labels cannot carry one. |
+| **M9** [**Native Mineral Sunscreen Lotion SPF 30**](#native-mineral-lotion) | Same class as [M8](#hero-superlight). |
 
 <a id="mineral-caution"></a>
 
 #### Mineral filters: caution
 
-- ⚑ [**Thrive BodyShield 50 SPF 50**](#thrive-bodyshield)\* — water-resistant SPF 50 mineral, held back by citrus fragrance. *Filters alone: between M1 and M2.* **Caution:** its fragrance includes citrus oils, which can cause burn-like reactions and dark marks on skin in the sun ([key](#fragrance-key)).
-- ⚑ [**Haruharu Wonder Black Rice Pure Mineral Relief Daily Sunscreen SPF50+**](#haruharu-pure-mineral)§ — best-balanced mineral spectrum; SPF 50+ from zinc alone. *Filters alone: between M1 and M2.* **Caution:** contains D6 silicone, restricted in the EU from 2027 ([key](#silicone-key)).
-- ⚑ [**Thrive Daily Defense Sunscreen Balm SPF 30**](#thrive-daily-balm)\* — identical protection to [M7](#thrive-sensitive) with a citrus essential-oil fragrance added to a product worn in sunlight. *Filters alone: between M7 and M8.* **Caution:** its fragrance includes citrus oils, which can cause burn-like reactions and dark marks on skin in the sun ([key](#fragrance-key)).
-- ⚑ [**SKIN1004 Madagascar Centella Air-Fit Suncream Light SPF30 PA++++**](#skin1004-air-fit-light) — same class as [M8](#hero-superlight). *Filters alone: between M8 and M9.* **Caution:** contains benzotriazolyl dodecyl p-cresol, a UV absorber added to protect the formula, which no regulator has assessed as a sunscreen filter.
+| Name | Info |
+|---|---|
+| ⚑ [**Thrive BodyShield 50 SPF 50**](#thrive-bodyshield)\* | Water-resistant SPF 50 mineral, held back by citrus fragrance. *Filters alone: between M1 and M2.* **Caution:** its fragrance includes citrus oils, which can cause burn-like reactions and dark marks on skin in the sun ([key](#fragrance-key)). |
+| ⚑ [**Haruharu Wonder Black Rice Pure Mineral Relief Daily Sunscreen SPF50+**](#haruharu-pure-mineral)§ | Best-balanced mineral spectrum; SPF 50+ from zinc alone. *Filters alone: between M1 and M2.* **Caution:** contains D6 silicone, restricted in the EU from 2027 ([key](#silicone-key)). |
+| ⚑ [**Thrive Daily Defense Sunscreen Balm SPF 30**](#thrive-daily-balm)\* | Identical protection to [M7](#thrive-sensitive) with a citrus essential-oil fragrance added to a product worn in sunlight. *Filters alone: between M7 and M8.* **Caution:** its fragrance includes citrus oils, which can cause burn-like reactions and dark marks on skin in the sun ([key](#fragrance-key)). |
+| ⚑ [**SKIN1004 Madagascar Centella Air-Fit Suncream Light SPF30 PA++++**](#skin1004-air-fit-light) | Same class as [M8](#hero-superlight). *Filters alone: between M8 and M9.* **Caution:** contains benzotriazolyl dodecyl p-cresol, a UV absorber added to protect the formula, which no regulator has assessed as a sunscreen filter. |
 
 <a id="fragrance-key"></a>**\*** = contains added fragrance or essential oils. Fragrance does not change how much UV a sunscreen blocks. It matters for other reasons: fragrance is a leading cause of allergic skin reactions to cosmetics, and sunscreen is reapplied several times a day, so exposure adds up. Some citrus oils also contain furocoumarins (compounds that react with UVA light), which can cause burn-like reactions and lasting dark marks on skin in the sun. Essential oils such as pine and chamomile are potential allergens too.
 
