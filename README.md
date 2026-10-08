@@ -86,9 +86,9 @@ Hybrids, which add zinc oxide or titanium dioxide to chemical filters, are liste
 
 | Name | Info |
 |---|---|
-| ⚑ [**Bioré UV Athlizm Skin Protect Milk SPF50+ PA++++**](#biore-athlizm)\*§ (hybrid) | 80-minute water resistance plus a stated friction-resistance claim, penalised for octinoxate: photounstable, and restricted in Hawaii, Maui County and Palau ([Reef regulations](#reef-regulations)). *Filters alone: between C7 and C8.* **Caution:** contains D5 silicone, restricted in the EU in 2027 ([key](#silicone-key)). |
-| ⚑ [**Isntree Hyaluronic Acid Watery Sun Gel SPF50+**](#isntree-watery-sun-gel)§ | Strong UVA (bisoctrizole), compromised UVB (homosalate, octisalate). *Filters alone: between C7 and C8.* **Caution:** contains D5 silicone, restricted in the EU in 2027 ([key](#silicone-key)). |
-| ⚑ [**COSRX Aloe Soothing Sun Cream SPF50 PA+++**](#cosrx-aloe)\*§ (hybrid) | No dedicated UVA-I filter, photounstable octinoxate leading the list, PA+++. *Filters alone: below C14.* **Caution:** contains D5 silicone, restricted in the EU in 2027 ([key](#silicone-key)). |
+| ⚑ [**Bioré UV Athlizm Skin Protect Milk SPF50+ PA++++**](#biore-athlizm)\*§ (hybrid) | 80-minute water resistance plus a stated friction-resistance claim, penalised for octinoxate: photounstable, and restricted in Hawaii, Maui County and Palau ([Reef regulations](#reef-regulations)). *Filters alone: between C7 and C8.* **Caution:** contains D5 silicone, which will be restricted in the EU in 2027 ([key](#silicone-key)). |
+| ⚑ [**Isntree Hyaluronic Acid Watery Sun Gel SPF50+**](#isntree-watery-sun-gel)§ | Strong UVA (bisoctrizole), compromised UVB (homosalate, octisalate). *Filters alone: between C7 and C8.* **Caution:** contains D5 silicone, which will be restricted in the EU in 2027 ([key](#silicone-key)). |
+| ⚑ [**COSRX Aloe Soothing Sun Cream SPF50 PA+++**](#cosrx-aloe)\*§ (hybrid) | No dedicated UVA-I filter, photounstable octinoxate leading the list, PA+++. *Filters alone: below C14.* **Caution:** contains D5 silicone, which will be restricted in the EU in 2027 ([key](#silicone-key)). |
 
 <a id="mineral-filters"></a>
 
@@ -113,7 +113,7 @@ Hybrids, which add zinc oxide or titanium dioxide to chemical filters, are liste
 | Name | Info |
 |---|---|
 | ⚑ [**Thrive BodyShield 50 SPF 50**](#thrive-bodyshield)\* | Water-resistant SPF 50 mineral, held back by citrus fragrance. *Filters alone: between M1 and M2.* **Caution:** its fragrance includes citrus oils, which can cause burn-like reactions and dark marks on skin in the sun ([key](#fragrance-key)). |
-| ⚑ [**Haruharu Wonder Black Rice Pure Mineral Relief Daily Sunscreen SPF50+**](#haruharu-pure-mineral)§ | Best-balanced mineral spectrum; SPF 50+ from zinc alone. *Filters alone: between M1 and M2.* **Caution:** contains D6 silicone, restricted in the EU in 2027 ([key](#silicone-key)). |
+| ⚑ [**Haruharu Wonder Black Rice Pure Mineral Relief Daily Sunscreen SPF50+**](#haruharu-pure-mineral)§ | Best-balanced mineral spectrum; SPF 50+ from zinc alone. *Filters alone: between M1 and M2.* **Caution:** contains D6 silicone, which will be restricted in the EU in 2027 ([key](#silicone-key)). |
 | ⚑ [**Thrive Daily Defense Sunscreen Balm SPF 30**](#thrive-daily-balm)\* | Identical protection to [M7](#thrive-sensitive) with a citrus essential-oil fragrance added to a product worn in sunlight. *Filters alone: between M7 and M8.* **Caution:** its fragrance includes citrus oils, which can cause burn-like reactions and dark marks on skin in the sun ([key](#fragrance-key)). |
 | ⚑ [**SKIN1004 Madagascar Centella Air-Fit Suncream Light SPF30 PA++++**](#skin1004-air-fit-light) | Same class as [M8](#hero-superlight). *Filters alone: between M8 and M9.* **Caution:** contains benzotriazolyl dodecyl p-cresol, a UV absorber added to protect the formula, which no regulator has assessed as a sunscreen filter. |
 
@@ -127,7 +127,7 @@ Hybrids, which add zinc oxide or titanium dioxide to chemical filters, are liste
 
 A list of sunscreens for **fair skin**, in two tables: [chemical filters](#chemical-filters) and [mineral filters](#mineral-filters). Within each table, products are grouped by UVB protection (Strong, then Good, then Moderate) and, within each group, ordered by total UVA coverage, with the three UVA bands in [Coverage by band](#coverage-by-band) counted equally. A product with a coverage gap (a Weak band) or with filters that break down in sunlight goes last. Ties are settled by formula details in the product notes (fragrance, essential oils, alcohol). The evidence behind this order is in [Why UVB first, then all of UVA](#why-uvb-first-then-all-of-uva).
 
-Each table ends with a **caution** section, marked **⚑**. The filters in these products would earn them a place in the ranking, but each contains something worth knowing about first: citrus oils that can leave dark marks on skin in the sun, a silicone the EU restricts from 2027, or a UV-absorbing stabiliser that no regulator has assessed as a sunscreen filter. Each caution entry says where its filters alone would place it.
+Each table ends with a **caution** section, marked **⚑**. The filters in these products would earn them a place in the ranking, but each contains something worth knowing about first: citrus oils that can leave dark marks on skin in the sun, a silicone that will be restricted in the EU in 2027, or a UV-absorbing stabiliser that no regulator has assessed as a sunscreen filter. Each caution entry says where its filters alone would place it.
 
 Ranked products are labelled C1–C14 (chemical) and M1–M9 (mineral). Every product links to its full entry in [Product notes](#product-notes). Everything here ships internationally; region is a shipping cost, not a barrier. Where a filter is approved decides what local shops stock; MCE, for example, is not approved in the US or Japan ([The MCE gap](#the-mce-gap)).
 
@@ -240,7 +240,7 @@ Ordered as in [the ranking](#the-ranking). **WR** = tested water resistance; **�
 
 **\*** = contains fragrance or essential oils ([key](#fragrance-key)).
 
-**§** = contains a cyclic silicone restricted in the EU in 2027 ([key](#silicone-key)).
+**§** = contains a cyclic silicone that will be restricted in the EU in 2027 ([key](#silicone-key)).
 
 **⚑** = caution entry, not ranked; see [Chemical filters: caution](#chemical-caution) and [Mineral filters: caution](#mineral-caution).
 
@@ -300,7 +300,7 @@ For products whose only filter is zinc oxide at a stated percentage, the UVA-I a
 
 **\*** = contains fragrance or essential oils ([key](#fragrance-key)).
 
-**§** = contains a cyclic silicone restricted in the EU in 2027 ([key](#silicone-key)).
+**§** = contains a cyclic silicone that will be restricted in the EU in 2027 ([key](#silicone-key)).
 
 **⚑** = caution entry, not ranked; see [Chemical filters: caution](#chemical-caution) and [Mineral filters: caution](#mineral-caution).
 
