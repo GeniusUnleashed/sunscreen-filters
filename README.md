@@ -179,43 +179,43 @@ Ordered as in [the ranking](#the-ranking). **WR** = tested water resistance; **�
 
 **Chemical filters**
 
-| # | Product | Label market | Count | WR | UV filters |
-|---|---|---|---|---|---|
-| C1 | LRP Anthelios UVMune 400 Invisible Fluid SPF50+\* | EU | 8 | ✔ (unrated) | Octisalate, Bemotrizinol, Ethylhexyl Triazone, Avobenzone, **MCE**, DHHB, Drometrizole Trisiloxane, Ecamsule |
-| C2 | Purito Seoul Daily Soft Touch SPF50+ | KR | 4 | ✔ (unrated) | DHHB, Ethylhexyl Triazone, Bemotrizinol, **Bisoctrizole** |
-| C3 | SKIN1004 Hyalu-Cica Water-Fit Sun Serum SPF50+ | KR | 4 | — | DHHB, Ethylhexyl Triazone, **Bisoctrizole**, Iscotrizinol |
-| C4 | Beauty of Joseon Relief Sun: Rice + Probiotics SPF50+ | KR | 4 | — | DHHB, Ethylhexyl Triazone, **Bisoctrizole**, Iscotrizinol |
-| C5 | Round Lab Birch Juice Moisturizing Sunscreen SPF50+ PA++++\* | KR | 4 | — | DHHB, Ethylhexyl Triazone, **Bisoctrizole**, Iscotrizinol |
-| C6 | LRP Anthelios Lait Hydratant Ultra Résistant SPF50+ | EU | 8 | ✔ (unrated) | Bemotrizinol, Ethylhexyl Triazone, Avobenzone, DHHB, Ensulizole, Drometrizole Trisiloxane, Ecamsule, TiO₂ |
-| C7 | Shiseido Anessa Perfect UV Skincare Milk SPF50+ PA++++\* | JP | 9 | 80 min | Zinc Oxide, TiO₂, Bemotrizinol, DHHB, Ethylhexyl Triazone, Octocrylene, Octisalate, Homosalate, Polysilicone-15 |
-| C8 | COSRX Ultra-Light Invisible SPF50 | KR | 4 | — | Drometrizole Trisiloxane, Ethylhexyl Triazone, DHHB, Ecamsule |
-| C9 | Beauty of Joseon Relief Sun Aqua-Fresh SPF50+ | KR | 5 | — | Ethylhexyl Triazone, Drometrizole Trisiloxane, Ecamsule, DHHB, Bemotrizinol |
-| C10 | Round Lab Camellia Deep Collagen Firming Sun Serum SPF50+ PA++++ | KR | 5 | — | Ethylhexyl Triazone, Ecamsule, DHHB, Polysilicone-15, Bemotrizinol |
-| C11 | Haruharu Wonder Black Rice Moisture Airyfit SPF50+ PA++++ | KR | 5 | — | Ethylhexyl Triazone, Ecamsule, DHHB, Polysilicone-15, Bemotrizinol |
-| C12 | numbuzin No.1 Clear Filter Sun Essence SPF50+ | KR | 5 | — | Ethylhexyl Triazone, Ecamsule, DHHB, Polysilicone-15, Bemotrizinol |
-| C13 | iUNIK Centella Calming Daily Sun Water SPF50+ | KR | 5 | — | Octisalate, Ensulizole, DHHB, Bemotrizinol, Ecamsule |
-| C14 | Derma:B Everyday Sun Block SPF50+ PA++++\* | KR | 5 | — | Homosalate, Octisalate, ⚠ Avobenzone, Ensulizole, Octocrylene |
-| ⚑ | Bioré UV Athlizm Skin Protect Milk SPF50+ PA++++\*§ | JP | 5 | 80 min | Zinc Oxide 13.1%, TiO₂, Bemotrizinol, DHHB, ⚠ Octinoxate |
-| ⚑ | Isntree HA Watery Sun Gel SPF50+§ | KR | 6 | — | Octisalate, Homosalate, Bemotrizinol, **Bisoctrizole**, Polysilicone-15, DHHB |
-| ⚑ | COSRX Aloe Soothing Sun Cream SPF50\*§ | KR | 5 | — | ⚠ Octinoxate, Bemotrizinol, Ensulizole, Isoamyl p-Methoxycinnamate, TiO₂ |
+| # | Product | Label market | WR | UV filters |
+|---|---|---|---|---|
+| C1 | LRP Anthelios UVMune 400 Invisible Fluid SPF50+\* | EU | ✔ (unrated) | Octisalate, Bemotrizinol, Ethylhexyl Triazone, Avobenzone, **MCE**, DHHB, Drometrizole Trisiloxane, Ecamsule |
+| C2 | Purito Seoul Daily Soft Touch SPF50+ | KR | ✔ (unrated) | DHHB, Ethylhexyl Triazone, Bemotrizinol, **Bisoctrizole** |
+| C3 | SKIN1004 Hyalu-Cica Water-Fit Sun Serum SPF50+ | KR | — | DHHB, Ethylhexyl Triazone, **Bisoctrizole**, Iscotrizinol |
+| C4 | Beauty of Joseon Relief Sun: Rice + Probiotics SPF50+ | KR | — | DHHB, Ethylhexyl Triazone, **Bisoctrizole**, Iscotrizinol |
+| C5 | Round Lab Birch Juice Moisturizing Sunscreen SPF50+ PA++++\* | KR | — | DHHB, Ethylhexyl Triazone, **Bisoctrizole**, Iscotrizinol |
+| C6 | LRP Anthelios Lait Hydratant Ultra Résistant SPF50+ | EU | ✔ (unrated) | Bemotrizinol, Ethylhexyl Triazone, Avobenzone, DHHB, Ensulizole, Drometrizole Trisiloxane, Ecamsule, TiO₂ |
+| C7 | Shiseido Anessa Perfect UV Skincare Milk SPF50+ PA++++\* | JP | 80 min | Zinc Oxide, TiO₂, Bemotrizinol, DHHB, Ethylhexyl Triazone, Octocrylene, Octisalate, Homosalate, Polysilicone-15 |
+| C8 | COSRX Ultra-Light Invisible SPF50 | KR | — | Drometrizole Trisiloxane, Ethylhexyl Triazone, DHHB, Ecamsule |
+| C9 | Beauty of Joseon Relief Sun Aqua-Fresh SPF50+ | KR | — | Ethylhexyl Triazone, Drometrizole Trisiloxane, Ecamsule, DHHB, Bemotrizinol |
+| C10 | Round Lab Camellia Deep Collagen Firming Sun Serum SPF50+ PA++++ | KR | — | Ethylhexyl Triazone, Ecamsule, DHHB, Polysilicone-15, Bemotrizinol |
+| C11 | Haruharu Wonder Black Rice Moisture Airyfit SPF50+ PA++++ | KR | — | Ethylhexyl Triazone, Ecamsule, DHHB, Polysilicone-15, Bemotrizinol |
+| C12 | numbuzin No.1 Clear Filter Sun Essence SPF50+ | KR | — | Ethylhexyl Triazone, Ecamsule, DHHB, Polysilicone-15, Bemotrizinol |
+| C13 | iUNIK Centella Calming Daily Sun Water SPF50+ | KR | — | Octisalate, Ensulizole, DHHB, Bemotrizinol, Ecamsule |
+| C14 | Derma:B Everyday Sun Block SPF50+ PA++++\* | KR | — | Homosalate, Octisalate, ⚠ Avobenzone, Ensulizole, Octocrylene |
+| ⚑ | Bioré UV Athlizm Skin Protect Milk SPF50+ PA++++\*§ | JP | 80 min | Zinc Oxide 13.1%, TiO₂, Bemotrizinol, DHHB, ⚠ Octinoxate |
+| ⚑ | Isntree HA Watery Sun Gel SPF50+§ | KR | — | Octisalate, Homosalate, Bemotrizinol, **Bisoctrizole**, Polysilicone-15, DHHB |
+| ⚑ | COSRX Aloe Soothing Sun Cream SPF50\*§ | KR | — | ⚠ Octinoxate, Bemotrizinol, Ensulizole, Isoamyl p-Methoxycinnamate, TiO₂ |
 
 **Mineral filters**
 
-| # | Product | Label market | Count | WR | UV filters |
-|---|---|---|---|---|---|
-| M1 | Badger Adventure Mineral SPF 50 | US | 1 | 80 min | Zinc Oxide 25% |
-| M2 | Blue Lizard Sensitive Mineral SPF 50+ | US | 2 | 80 min | TiO₂ 8% + Zinc Oxide 10% |
-| M3 | Badger Sport Mineral SPF 40 | US | 1 | 80 min | Zinc Oxide 22.5% |
-| M4 | Innisfree Daily UV Defense Mineral SPF 45 | US | 1 | — | Zinc Oxide 17% (green-tinted) |
-| M5 | Waxhead Tinted Face Surf Paste SPF 30 | US | 1 | 80 min | Zinc Oxide 25% (uncoated, non-nano) |
-| M6 | Badger Active Mineral SPF 30 | US | 1 | 40 min | Zinc Oxide 18.75% |
-| M7 | Thrive Daily Sunscreen for Sensitive Skin SPF 30 | US | 1 | — | Zinc Oxide 20% |
-| M8 | Hero Superlight Sunscreen SPF 30 | US | 1 | — | Zinc Oxide 17.53% |
-| M9 | Native Mineral Sunscreen Lotion SPF 30 | US | 1 | — | Zinc Oxide 17% |
-| ⚑ | Thrive **Body**Shield 50 SPF 50\* | US | 1 | 80 min | Zinc Oxide 23.5% |
-| ⚑ | Haruharu Wonder Black Rice Pure Mineral SPF50+§ | KR | 1 | — | Zinc Oxide (sold as non-nano; EU listings say nano) |
-| ⚑ | Thrive Daily Defense Sunscreen Balm SPF 30\* | US | 1 | — | Zinc Oxide 20% |
-| ⚑ | SKIN1004 Centella Air-Fit Suncream Light SPF30 PA++++ | KR | 1 | — | Zinc Oxide ~11% (non-nano; retailer figure) |
+| # | Product | Label market | WR | UV filters |
+|---|---|---|---|---|
+| M1 | Badger Adventure Mineral SPF 50 | US | 80 min | Zinc Oxide 25% |
+| M2 | Blue Lizard Sensitive Mineral SPF 50+ | US | 80 min | TiO₂ 8% + Zinc Oxide 10% |
+| M3 | Badger Sport Mineral SPF 40 | US | 80 min | Zinc Oxide 22.5% |
+| M4 | Innisfree Daily UV Defense Mineral SPF 45 | US | — | Zinc Oxide 17% (green-tinted) |
+| M5 | Waxhead Tinted Face Surf Paste SPF 30 | US | 80 min | Zinc Oxide 25% (uncoated, non-nano) |
+| M6 | Badger Active Mineral SPF 30 | US | 40 min | Zinc Oxide 18.75% |
+| M7 | Thrive Daily Sunscreen for Sensitive Skin SPF 30 | US | — | Zinc Oxide 20% |
+| M8 | Hero Superlight Sunscreen SPF 30 | US | — | Zinc Oxide 17.53% |
+| M9 | Native Mineral Sunscreen Lotion SPF 30 | US | — | Zinc Oxide 17% |
+| ⚑ | Thrive **Body**Shield 50 SPF 50\* | US | 80 min | Zinc Oxide 23.5% |
+| ⚑ | Haruharu Wonder Black Rice Pure Mineral SPF50+§ | KR | — | Zinc Oxide (sold as non-nano; EU listings say nano) |
+| ⚑ | Thrive Daily Defense Sunscreen Balm SPF 30\* | US | — | Zinc Oxide 20% |
+| ⚑ | SKIN1004 Centella Air-Fit Suncream Light SPF30 PA++++ | KR | — | Zinc Oxide ~11% (non-nano; retailer figure) |
 
 **Bold** = MCE or bisoctrizole, the two organic (non-mineral) filters that reach furthest into long UVA (370–400 nm).
 
