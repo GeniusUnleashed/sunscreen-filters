@@ -9,8 +9,9 @@ Last updated: 2026-10-07
 ## Contents
 
 **Part 1 — Everyday**
-- [Terms used here](#terms-used-here)
 - [The ranking](#the-ranking)
+  - [How the ranking works](#how-the-ranking-works)
+- [Terms used here](#terms-used-here)
 - [Filter names used here](#filter-names-used-here)
 - [Filter systems at a glance](#filter-systems-at-a-glance)
 - [Coverage by band](#coverage-by-band)
@@ -48,37 +49,13 @@ Last updated: 2026-10-07
 
 # Part 1 — Everyday
 
-<a id="terms-used-here"></a>
-
-## Terms used here
-
-- **UV filter** — an ingredient that absorbs or scatters ultraviolet light.
-- **Chemical (organic) filter** — a carbon-based molecule that absorbs UV. **Mineral (physical) filter** — zinc oxide or titanium dioxide: particles that absorb and scatter UV.
-- **UVB** (280–320 nm) — the band that causes sunburn. **UVA** (320–400 nm) — reaches deeper into skin; split into **UVA-II** (320–340 nm) and **UVA-I** (340–400 nm). Because filter coverage thins past 370 nm, this document scores 340–370 nm as "UVA-I" and 370–400 nm as **long UVA**.
-- **SPF** (Sun Protection Factor) — how much longer UVB takes to redden skin. SPF 30 means 30× longer than unprotected skin. UVB only; carries no UVA information. In practice, SPF 30 lets through about 1/30 (3%) of burning UV and SPF 50 about 1/50 (2%), so SPF 30 lets through about 1.7 times as much.
-- **PA rating** (PA+ to PA++++) — the UVA grade used in Japan and Korea, based on PPD; PA++++ means PPD 16 or more.
-- **PPD** (Persistent Pigment Darkening) — the UVA equivalent of SPF. Measured by how much longer UVA exposure takes to produce lasting tanning. **PPD 16 = 16× longer.** This is the number the Japanese and Korean PA system is built on.
-- **UVA-PF** (UVA Protection Factor) — the European equivalent of PPD, measured in a lab on film rather than on skin. Used to check the EU's UVA-to-SPF ratio requirement.
-- **Critical wavelength** — the wavelength below which 90% of a sunscreen's total absorbance sits. A higher number means protection extends further into UVA. 370 nm is the regulatory threshold.
-- **EU UVA seal** — "UVA" printed in a circle: the UVA-PF is at least one third of the SPF.
-- **"Broad Spectrum"** — the US label claim: a critical wavelength of at least 370 nm, with no grading above that.
-- **Photostable** — doesn't break down in sunlight. **Photolabile** or **photounstable** — does.
-- **Water resistant (40 or 80 minutes)** — kept its labelled SPF after that long in a standard water test.
-- **INCI** — the standard international ingredient names printed on labels outside the US.
-
----
-
 <a id="the-ranking"></a>
 
 ## The ranking
 
-A list of sunscreens for **fair skin**, in two tables: [chemical filters](#chemical-filters) and [mineral filters](#mineral-filters). Within each table, products are grouped by UVB protection (Strong, then Good, then Moderate) and, within each group, ordered by total UVA coverage, with the three UVA bands in [Coverage by band](#coverage-by-band) counted equally. A product with a coverage gap (a Weak band) or with filters that break down in sunlight goes last. Ties are settled by formula details in the product notes (fragrance, essential oils, alcohol). The evidence behind this order is in [Why UVB first, then all of UVA](#why-uvb-first-then-all-of-uva).
+**Before you read:** I'm not a doctor, and this isn't medical advice. It's a collection of information I found online and pieced together with help from Claude, an AI assistant, which I used to read ingredient labels and research. Take everything here with a grain of salt, check it against your own research, and talk to a licensed professional, such as a dermatologist, if you have questions.
 
-Each table ends with a **caution** section, marked **⚑**. The filters in these products would earn them a place in the ranking, but each contains something worth knowing about first: citrus oils that can leave dark marks on skin in the sun, a silicone the EU restricts from 2027, or a UV-absorbing stabiliser that no regulator has assessed as a sunscreen filter. Each caution entry says where its filters alone would place it.
-
-Ranked products are labelled C1–C14 (chemical) and M1–M9 (mineral). Every product links to its full entry in [Product notes](#product-notes). Everything here ships internationally; region is a shipping cost, not a barrier. Where a filter is approved decides what local shops stock; MCE, for example, is not approved in the US or Japan ([The MCE gap](#the-mce-gap)).
-
-Water resistance is noted where it changes the recommendation; [Surfing and water sports](#surfing-and-water-sports) re-ranks everything for surfing.
+C1–C14 and M1–M9 are ranks; ⚑ marks products held back for a caution. [How the ranking works](#how-the-ranking-works) is explained below the tables.
 
 <a id="chemical-filters"></a>
 
@@ -144,7 +121,39 @@ Hybrids, which add zinc oxide or titanium dioxide to chemical filters, are liste
 
 <a id="silicone-key"></a>**§** = contains a cyclic silicone: D5 (cyclopentasiloxane) or D6 (cyclohexasiloxane). The EU classes these as very persistent and very bioaccumulative in the environment, and restricts them to under 0.1% in leave-on cosmetics from 6 June 2027 (Regulation (EU) 2024/1328). The restriction is environmental; it is not based on a finding that they harm skin.
 
+<a id="how-the-ranking-works"></a>
+
+### How the ranking works
+
+A list of sunscreens for **fair skin**, in two tables: [chemical filters](#chemical-filters) and [mineral filters](#mineral-filters). Within each table, products are grouped by UVB protection (Strong, then Good, then Moderate) and, within each group, ordered by total UVA coverage, with the three UVA bands in [Coverage by band](#coverage-by-band) counted equally. A product with a coverage gap (a Weak band) or with filters that break down in sunlight goes last. Ties are settled by formula details in the product notes (fragrance, essential oils, alcohol). The evidence behind this order is in [Why UVB first, then all of UVA](#why-uvb-first-then-all-of-uva).
+
+Each table ends with a **caution** section, marked **⚑**. The filters in these products would earn them a place in the ranking, but each contains something worth knowing about first: citrus oils that can leave dark marks on skin in the sun, a silicone the EU restricts from 2027, or a UV-absorbing stabiliser that no regulator has assessed as a sunscreen filter. Each caution entry says where its filters alone would place it.
+
+Ranked products are labelled C1–C14 (chemical) and M1–M9 (mineral). Every product links to its full entry in [Product notes](#product-notes). Everything here ships internationally; region is a shipping cost, not a barrier. Where a filter is approved decides what local shops stock; MCE, for example, is not approved in the US or Japan ([The MCE gap](#the-mce-gap)).
+
+Water resistance is noted where it changes the recommendation; [Surfing and water sports](#surfing-and-water-sports) re-ranks everything for surfing.
+
 **On quantity.** Body application needs roughly 25–30 ml to cover an adult at the tested 2 mg/cm² density — around a shot glass. This is the single most common reason real-world protection falls short of the label, and it is why large formats such as the 250 ml LRP Lait and 7 oz Native matter more than their formulas suggest.
+
+---
+
+<a id="terms-used-here"></a>
+
+## Terms used here
+
+- **UV filter** — an ingredient that absorbs or scatters ultraviolet light.
+- **Chemical (organic) filter** — a carbon-based molecule that absorbs UV. **Mineral (physical) filter** — zinc oxide or titanium dioxide: particles that absorb and scatter UV.
+- **UVB** (280–320 nm) — the band that causes sunburn. **UVA** (320–400 nm) — reaches deeper into skin; split into **UVA-II** (320–340 nm) and **UVA-I** (340–400 nm). Because filter coverage thins past 370 nm, this document scores 340–370 nm as "UVA-I" and 370–400 nm as **long UVA**.
+- **SPF** (Sun Protection Factor) — how much longer UVB takes to redden skin. SPF 30 means 30× longer than unprotected skin. UVB only; carries no UVA information. In practice, SPF 30 lets through about 1/30 (3%) of burning UV and SPF 50 about 1/50 (2%), so SPF 30 lets through about 1.7 times as much.
+- **PA rating** (PA+ to PA++++) — the UVA grade used in Japan and Korea, based on PPD; PA++++ means PPD 16 or more.
+- **PPD** (Persistent Pigment Darkening) — the UVA equivalent of SPF. Measured by how much longer UVA exposure takes to produce lasting tanning. **PPD 16 = 16× longer.** This is the number the Japanese and Korean PA system is built on.
+- **UVA-PF** (UVA Protection Factor) — the European equivalent of PPD, measured in a lab on film rather than on skin. Used to check the EU's UVA-to-SPF ratio requirement.
+- **Critical wavelength** — the wavelength below which 90% of a sunscreen's total absorbance sits. A higher number means protection extends further into UVA. 370 nm is the regulatory threshold.
+- **EU UVA seal** — "UVA" printed in a circle: the UVA-PF is at least one third of the SPF.
+- **"Broad Spectrum"** — the US label claim: a critical wavelength of at least 370 nm, with no grading above that.
+- **Photostable** — doesn't break down in sunlight. **Photolabile** or **photounstable** — does.
+- **Water resistant (40 or 80 minutes)** — kept its labelled SPF after that long in a standard water test.
+- **INCI** — the standard international ingredient names printed on labels outside the US.
 
 ---
 
