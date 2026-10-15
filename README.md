@@ -2,7 +2,7 @@
 
 A full breakdown of sunscreen products and their UV filters: ranked on filter coverage for fair skin, with the spectroscopy and regulation behind the ranking, and a separate chart for surfing and water sports.
 
-Last updated: 2026-10-07
+Last updated: 2026-10-15
 
 ---
 
@@ -55,7 +55,7 @@ Last updated: 2026-10-07
 
 **Before you read:** I'm not a doctor, and this isn't medical advice. It's a collection of information I found online and pieced together with help from Claude, an AI assistant, which I used to read ingredient labels and research. Take everything here with a grain of salt, check it against your own research, and talk to a licensed professional, such as a dermatologist, if you have questions.
 
-C1–C14 and M1–M9 are ranks; ⚑ marks products held back for a caution. [How the ranking works](#how-the-ranking-works) is explained below the tables. Technical words are explained in [Terms used here](#terms-used-here), and filter names in [Filter names used here](#filter-names-used-here), both below the tables.
+C1–C16 and M1–M9 are ranks; ⚑ marks products held back for a caution. [How the ranking works](#how-the-ranking-works) is explained below the tables. Technical words are explained in [Terms used here](#terms-used-here), and filter names in [Filter names used here](#filter-names-used-here), both below the tables.
 
 <a id="chemical-filters"></a>
 
@@ -74,11 +74,13 @@ Hybrids, which add zinc oxide or titanium dioxide to chemical filters, are liste
 | **C7** [**Shiseido Anessa Perfect UV Sunscreen Skincare Milk SPF50+ PA++++**](#anessa-perfect-uv-milk)\* (hybrid) | Spectrally broad *and* 80-minute water resistant, with a film that hardens in water. The broadest-use product on the list. |
 | **C8** [**COSRX Ultra-Light Invisible Sunscreen SPF50**](#cosrx-ultra-light) | Excellent 320–360 nm, moderate 370–400. |
 | **C9** [**Beauty of Joseon Relief Sun Aqua-Fresh SPF50+**](#boj-aqua-fresh) | Same profile as [C8](#cosrx-ultra-light). |
-| **C10** [**Round Lab Camellia Deep Collagen Firming Sun Serum SPF50+ PA++++**](#round-lab-camellia) | The same five filters as [C11](#haruharu-airyfit) and [C12](#numbuzin-no1), three of them slightly higher in the list than in [C11](#haruharu-airyfit); strong to ~360 nm, moderate beyond. |
-| **C11** [**Haruharu Wonder Black Rice Moisture Airyfit Daily Sunscreen SPF50+ PA++++**](#haruharu-airyfit) | The same five filters as [C12](#numbuzin-no1) numbuzin at a far higher loading; strong to ~360 nm, moderate beyond. Fragrance- and alcohol-free; no water resistance. |
-| **C12** [**numbuzin No.1 Clear Filter Sun Essence SPF50+**](#numbuzin-no1) | The same five filters as [C10](#round-lab-camellia) and [C11](#haruharu-airyfit) at a much lower loading; roughly half the formula is extract, listed before the first filter. |
-| **C13** [**iUNIK Centella Calming Daily Sun Water SPF50+**](#iunik-sun-water) | Texture-first; UVB rests on octisalate and ensulizole, the weakest backbone here. |
-| **C14** [**Derma:B Everyday Sun Block SPF50+ PA++++**](#dermab-everyday)\* | A US-legacy filter set sold from Korea. Avobenzone is the only UVA filter and is lightly stabilised, so the PA++++ describes hour one. |
+| **C10** [**Round Lab Camellia Deep Collagen Firming Sun Serum SPF50+ PA++++**](#round-lab-camellia) | The same five filters as [C11](#haruharu-airyfit) and [C14](#numbuzin-no1), three of them slightly higher in the list than in [C11](#haruharu-airyfit); strong to ~360 nm, moderate beyond. |
+| **C11** [**Haruharu Wonder Black Rice Moisture Airyfit Daily Sunscreen SPF50+ PA++++**](#haruharu-airyfit) | The same five filters as [C14](#numbuzin-no1) numbuzin at a far higher loading; strong to ~360 nm, moderate beyond. Fragrance- and alcohol-free; no water resistance. |
+| **C12** [**Neutrogena Cloud Tech Ultra Sheer Daily Face Sunscreen SPF 70**](#neutrogena-ultra-sheer) | Bemotrizinol at the 6% US limit stabilises 3% avobenzone, the only filter reaching past 360 nm; UVB rests on 20% salicylates. The same filters as [C13](#neutrogena-clear-face) at the same percentages; ranked above it on labelled SPF. |
+| **C13** [**Neutrogena Cloud Tech Clear Face Sunscreen for Acne-Prone Skin SPF 60**](#neutrogena-clear-face) | The same four filters as [C12](#neutrogena-ultra-sheer) at the same percentages, with niacinamide added. |
+| **C14** [**numbuzin No.1 Clear Filter Sun Essence SPF50+**](#numbuzin-no1) | The same five filters as [C10](#round-lab-camellia) and [C11](#haruharu-airyfit) at a much lower loading; roughly half the formula is extract, listed before the first filter. |
+| **C15** [**iUNIK Centella Calming Daily Sun Water SPF50+**](#iunik-sun-water) | Texture-first; UVB rests on octisalate and ensulizole, the weakest backbone here. |
+| **C16** [**Derma:B Everyday Sun Block SPF50+ PA++++**](#dermab-everyday)\* | A US-legacy filter set sold from Korea. Avobenzone is the only UVA filter and is lightly stabilised, so the PA++++ describes hour one. |
 
 <a id="chemical-caution"></a>
 
@@ -88,7 +90,7 @@ Hybrids, which add zinc oxide or titanium dioxide to chemical filters, are liste
 |---|---|
 | ⚑ [**Bioré UV Athlizm Skin Protect Milk SPF50+ PA++++**](#biore-athlizm)\*§ (hybrid) | 80-minute water resistance plus a stated friction-resistance claim, penalised for octinoxate: photounstable, and restricted in Hawaii, Maui County and Palau ([Reef regulations](#reef-regulations)). *Filters alone: between C7 and C8.* **Caution:** contains D5 silicone, which will be restricted in the EU in 2027 ([key](#silicone-key)). |
 | ⚑ [**Isntree Hyaluronic Acid Watery Sun Gel SPF50+**](#isntree-watery-sun-gel)§ | Strong UVA (bisoctrizole), compromised UVB (homosalate, octisalate). *Filters alone: between C7 and C8.* **Caution:** contains D5 silicone, which will be restricted in the EU in 2027 ([key](#silicone-key)). |
-| ⚑ [**COSRX Aloe Soothing Sun Cream SPF50 PA+++**](#cosrx-aloe)\*§ (hybrid) | No dedicated UVA-I filter, photounstable octinoxate leading the list, PA+++. *Filters alone: below C14.* **Caution:** contains D5 silicone, which will be restricted in the EU in 2027 ([key](#silicone-key)). |
+| ⚑ [**COSRX Aloe Soothing Sun Cream SPF50 PA+++**](#cosrx-aloe)\*§ (hybrid) | No dedicated UVA-I filter, photounstable octinoxate leading the list, PA+++. *Filters alone: below C16.* **Caution:** contains D5 silicone, which will be restricted in the EU in 2027 ([key](#silicone-key)). |
 
 <a id="mineral-filters"></a>
 
@@ -129,7 +131,7 @@ A list of sunscreens for **fair skin**, in two tables: [chemical filters](#chemi
 
 Each table ends with a **caution** section, marked **⚑**. The filters in these products would earn them a place in the ranking, but each contains something worth knowing about first: citrus oils that can leave dark marks on skin in the sun, a silicone that will be restricted in the EU in 2027, or a UV-absorbing stabiliser that no regulator has assessed as a sunscreen filter. Each caution entry says where its filters alone would place it.
 
-Ranked products are labelled C1–C14 (chemical) and M1–M9 (mineral). Every product links to its full entry in [Product notes](#product-notes). Everything here ships internationally; region is a shipping cost, not a barrier. Where a filter is approved decides what local shops stock; MCE, for example, is not approved in the US or Japan ([The MCE gap](#the-mce-gap)).
+Ranked products are labelled C1–C16 (chemical) and M1–M9 (mineral). Every product links to its full entry in [Product notes](#product-notes). Everything here ships internationally; region is a shipping cost, not a barrier. Where a filter is approved decides what local shops stock; MCE, for example, is not approved in the US or Japan ([The MCE gap](#the-mce-gap)).
 
 Water resistance is noted where it changes the recommendation; [Surfing and water sports](#surfing-and-water-sports) re-ranks everything for surfing.
 
@@ -219,9 +221,11 @@ Ordered as in [the ranking](#the-ranking). **WR** = tested water resistance; **�
 | C9 | Beauty of Joseon Relief Sun Aqua-Fresh SPF50+ | KR | — | Ethylhexyl Triazone, Drometrizole Trisiloxane, Ecamsule, DHHB, Bemotrizinol |
 | C10 | Round Lab Camellia Deep Collagen Firming Sun Serum SPF50+ PA++++ | KR | — | Ethylhexyl Triazone, Ecamsule, DHHB, Polysilicone-15, Bemotrizinol |
 | C11 | Haruharu Wonder Black Rice Moisture Airyfit SPF50+ PA++++ | KR | — | Ethylhexyl Triazone, Ecamsule, DHHB, Polysilicone-15, Bemotrizinol |
-| C12 | numbuzin No.1 Clear Filter Sun Essence SPF50+ | KR | — | Ethylhexyl Triazone, Ecamsule, DHHB, Polysilicone-15, Bemotrizinol |
-| C13 | iUNIK Centella Calming Daily Sun Water SPF50+ | KR | — | Octisalate, Ensulizole, DHHB, Bemotrizinol, Ecamsule |
-| C14 | Derma:B Everyday Sun Block SPF50+ PA++++\* | KR | — | Homosalate, Octisalate, ⚠ Avobenzone, Ensulizole, Octocrylene |
+| C12 | Neutrogena Cloud Tech Ultra Sheer Daily Face SPF 70 | US | — | Avobenzone 3%, Bemotrizinol 6%, Homosalate 15%, Octisalate 5% |
+| C13 | Neutrogena Cloud Tech Clear Face SPF 60 | US | — | Avobenzone 3%, Bemotrizinol 6%, Homosalate 15%, Octisalate 5% |
+| C14 | numbuzin No.1 Clear Filter Sun Essence SPF50+ | KR | — | Ethylhexyl Triazone, Ecamsule, DHHB, Polysilicone-15, Bemotrizinol |
+| C15 | iUNIK Centella Calming Daily Sun Water SPF50+ | KR | — | Octisalate, Ensulizole, DHHB, Bemotrizinol, Ecamsule |
+| C16 | Derma:B Everyday Sun Block SPF50+ PA++++\* | KR | — | Homosalate, Octisalate, ⚠ Avobenzone, Ensulizole, Octocrylene |
 | ⚑ | Bioré UV Athlizm Skin Protect Milk SPF50+ PA++++\*§ | JP | 80 min | Zinc Oxide 13.1%, TiO₂, Bemotrizinol, DHHB, ⚠ Octinoxate |
 | ⚑ | Isntree HA Watery Sun Gel SPF50+§ | KR | — | Octisalate, Homosalate, Bemotrizinol, **Bisoctrizole**, Polysilicone-15, DHHB |
 | ⚑ | COSRX Aloe Soothing Sun Cream SPF50\*§ | KR | — | ⚠ Octinoxate, Bemotrizinol, Ensulizole, Isoamyl p-Methoxycinnamate, TiO₂ |
@@ -246,7 +250,7 @@ Ordered as in [the ranking](#the-ranking). **WR** = tested water resistance; **�
 
 **Bold** = MCE or bisoctrizole, the two organic (non-mineral) filters that reach furthest into long UVA (370–400 nm).
 
-**⚠** = a filter that breaks down in sunlight: octinoxate, which is also restricted in Hawaii, Maui County and Palau, and avobenzone in [C14](#dermab-everyday), where it is the only UVA filter and lightly stabilised.
+**⚠** = a filter that breaks down in sunlight: octinoxate, which is also restricted in Hawaii, Maui County and Palau, and avobenzone in [C16](#dermab-everyday), where it is the only UVA filter and lightly stabilised.
 
 **\*** = contains fragrance or essential oils ([key](#fragrance-key)).
 
@@ -279,9 +283,11 @@ For products whose only filter is zinc oxide at a stated percentage, the UVA-I a
 | C9. BOJ Aqua-Fresh | Good | **Strong** | Good | Moderate | Excellent |
 | C10. Round Lab Camellia | Good | **Strong** | Good | Moderate | Excellent |
 | C11. Haruharu Airyfit | Good | **Strong** | Good | Moderate | Excellent |
-| C12. numbuzin No.1 | Good | Good | Good | Weak–Moderate | Excellent |
-| C13. iUNIK Sun Water | Moderate | Good | Good | ⚠ Weak | Excellent |
-| C14. Derma:B Everyday Sun Block\* | Good | Good | Good → fades | Moderate → fades | ⚠ Poor |
+| C12. Neutrogena Ultra Sheer SPF 70† | Good | Good | Good | Moderate | Very good |
+| C13. Neutrogena Clear Face SPF 60† | Good | Good | Good | Moderate | Very good |
+| C14. numbuzin No.1 | Good | Good | Good | Weak–Moderate | Excellent |
+| C15. iUNIK Sun Water | Moderate | Good | Good | ⚠ Weak | Excellent |
+| C16. Derma:B Everyday Sun Block\* | Good | Good | Good → fades | Moderate → fades | ⚠ Poor |
 | ⚑ Bioré UV Athlizm\*§ | **Strong** | **Strong** | **Strong** | Good | Moderate |
 | ⚑ Isntree Watery Sun Gel§ | Good | Good | Good | **Strong** | Excellent |
 | ⚑ COSRX Aloe Soothing\*§ | **Strong** | Moderate | ⚠ Weak | ⚠ Weak | Moderate |
@@ -394,7 +400,7 @@ On the body, with a sunshirt or wetsuit, what's exposed is **hands, feet, the ba
 | **8** | **Purito Daily Soft Touch** ([C2](#purito-daily-soft-touch)) | SPF 50+ / water resistant | Strong spectral coverage, with water, sweat and sand resistance claimed but not rated in minutes. Built for daily wear, not immersion. |
 | **9** | **LRP Anthelios Lait** ([C6](#lrp-lait-ultra-resistant)) | SPF 50+ / water resistant | Rubs in fully — eight filters, EU UVA seal, sold in 250 ml. "Ultra Résistant" is a water- and sweat-resistance claim on a film-forming base (ingredients that set into a continuous layer), but it is not rated in minutes, and its alcohol stings on eye contact. |
 | — | **Haruharu Black Rice Pure Mineral** ([⚑](#haruharu-pure-mineral)) | SPF 50+ PA++++ / no claim | No water-resistance claim, but an engineered water-in-silicone mineral film; mineral films hold up better to water than to rubbing. Can migrate with sweat and sting the eyes. |
-| — | **The Korean daily formulas** ([C3](#skin1004-water-fit), [C4](#boj-rice-probiotics), [C5](#round-lab-birch), [Isntree](#isntree-watery-sun-gel), [C8](#cosrx-ultra-light), [C9](#boj-aqua-fresh), [C10](#round-lab-camellia), [C11](#haruharu-airyfit), [C12](#numbuzin-no1), [SKIN1004 Air-Fit](#skin1004-air-fit-light), [C13](#iunik-sun-water), [C14](#dermab-everyday)) | daily-wear | Essences, serums and gels with no water-resistance claim and thin films by design. Built for daily wear, not water. |
+| — | **The Korean daily formulas** ([C3](#skin1004-water-fit), [C4](#boj-rice-probiotics), [C5](#round-lab-birch), [Isntree](#isntree-watery-sun-gel), [C8](#cosrx-ultra-light), [C9](#boj-aqua-fresh), [C10](#round-lab-camellia), [C11](#haruharu-airyfit), [C14](#numbuzin-no1), [SKIN1004 Air-Fit](#skin1004-air-fit-light), [C15](#iunik-sun-water), [C16](#dermab-everyday)) | daily-wear | Essences, serums and gels with no water-resistance claim and thin films by design. Built for daily wear, not water. |
 | ⛔ | **COSRX Aloe**\* ([⚑](#cosrx-aloe)) | — | No dedicated UVA-I filter, photounstable octinoxate, restricted in Hawaii, Maui County and Palau. |
 
 #### SCALP / THINNING HAIR — the neglected one
@@ -431,8 +437,8 @@ Rules differ by place and change over time; check current rules before travellin
 | Place | Restricted | What is banned | Products on this list affected |
 |---|---|---|---|
 | Hawaii (state), since 2021 [[R1]](#reg-1) | Oxybenzone, octinoxate | Sale and distribution | [Bioré](#biore-athlizm), [COSRX Aloe](#cosrx-aloe) |
-| Maui County (Maui, Lānaʻi, Molokaʻi), since Oct 2022 [[R2]](#reg-2) | Any sunscreen not based only on zinc oxide and/or titanium dioxide | Sale, distribution and use | 17 of 30: every chemical-filter product (C1–C14, plus Bioré, Isntree and COSRX Aloe) |
-| Palau, since 2020 [[R4]](#reg-4) | Oxybenzone, octinoxate, octocrylene, 4-methylbenzylidene camphor, triclosan, four parabens, phenoxyethanol | Import and sale; visitors' products can be confiscated | [C7](#anessa-perfect-uv-milk) Anessa, [Bioré](#biore-athlizm), [Thrive Balm](#thrive-daily-balm), [C14](#dermab-everyday) Derma:B, [COSRX Aloe](#cosrx-aloe) |
+| Maui County (Maui, Lānaʻi, Molokaʻi), since Oct 2022 [[R2]](#reg-2) | Any sunscreen not based only on zinc oxide and/or titanium dioxide | Sale, distribution and use | 19 of 32: every chemical-filter product (C1–C16, plus Bioré, Isntree and COSRX Aloe) |
+| Palau, since 2020 [[R4]](#reg-4) | Oxybenzone, octinoxate, octocrylene, 4-methylbenzylidene camphor, triclosan, four parabens, phenoxyethanol | Import and sale; visitors' products can be confiscated | [C7](#anessa-perfect-uv-milk) Anessa, [C12](#neutrogena-ultra-sheer) and [C13](#neutrogena-clear-face) Neutrogena, [Bioré](#biore-athlizm), [Thrive Balm](#thrive-daily-balm), [C16](#dermab-everyday) Derma:B, [COSRX Aloe](#cosrx-aloe) |
 | Key West | — | Its ban was voided by a 2020 Florida state law before taking effect [[R3]](#reg-3) | None |
 
 Hero ([M8](#hero-superlight)) and Thrive Sensitive ([M7](#thrive-sensitive)) were not checked against the full Palau list.
@@ -538,7 +544,7 @@ Ethylhexyl triazone + drometrizole trisiloxane + ecamsule + DHHB, with bemotrizi
 ### C10. Round Lab Camellia Deep Collagen Firming Sun Serum
 *[C11](#haruharu-airyfit)'s filter set, slightly higher in the list*
 
-Ethylhexyl triazone (4th), ecamsule (5th), DHHB (13th), polysilicone-15 (16th) and bemotrizinol (22nd): the same five filters as [C11](#haruharu-airyfit) Airyfit and [C12](#numbuzin-no1) numbuzin, in nearly the Airyfit's positions, with bemotrizinol higher (22nd against 30th). Same profile as [C8](#cosrx-ultra-light) and [C9](#boj-aqua-fresh): UVB and 320–360 nm well covered, 370–400 nm relying on filter tails.
+Ethylhexyl triazone (4th), ecamsule (5th), DHHB (13th), polysilicone-15 (16th) and bemotrizinol (22nd): the same five filters as [C11](#haruharu-airyfit) Airyfit and [C14](#numbuzin-no1) numbuzin, in nearly the Airyfit's positions, with bemotrizinol higher (22nd against 30th). Same profile as [C8](#cosrx-ultra-light) and [C9](#boj-aqua-fresh): UVB and 320–360 nm well covered, 370–400 nm relying on filter tails.
 
 Hydroxypinacolone retinoate (HPR), a retinoid ester (a mild form of vitamin A used in skincare), is 45th of 55 ingredients — a trace amount. Lactic acid/glycolic acid copolymer (43rd) is a polymer, not free lactic or glycolic acid. Retailers describe it as alcohol-free and free of fragrance and essential oils.
 
@@ -547,9 +553,9 @@ Labelled SPF 50+ PA++++. No water- or sweat-resistance claim found. 50 ml.
 <a id="haruharu-airyfit"></a>
 
 ### C11. Haruharu Wonder Black Rice Moisture Airyfit Daily Sunscreen
-*[C12](#numbuzin-no1)'s filter set at a much higher loading*
+*[C14](#numbuzin-no1)'s filter set at a much higher loading*
 
-Five filters: ethylhexyl triazone (5th), ecamsule (6th), DHHB (13th), polysilicone-15 (16th) and bemotrizinol (30th, a trace amount). Butyloctyl salicylate (4th) is a solvent and SPF booster, not a filter. These are the same five filters as [C12](#numbuzin-no1) numbuzin, but here the two main filters sit 5th and 6th rather than behind half a bottle of extract. The profile matches [C8](#cosrx-ultra-light) and [C9](#boj-aqua-fresh): UVB and the 320–360 nm region are well covered, and with no bisoctrizole, zinc or MCE, the 370–400 nm window relies on filter tails.
+Five filters: ethylhexyl triazone (5th), ecamsule (6th), DHHB (13th), polysilicone-15 (16th) and bemotrizinol (30th, a trace amount). Butyloctyl salicylate (4th) is a solvent and SPF booster, not a filter. These are the same five filters as [C14](#numbuzin-no1) numbuzin, but here the two main filters sit 5th and 6th rather than behind half a bottle of extract. The profile matches [C8](#cosrx-ultra-light) and [C9](#boj-aqua-fresh): UVB and the 320–360 nm region are well covered, and with no bisoctrizole, zinc or MCE, the 370–400 nm window relies on filter tails.
 
 Labelled SPF 50+ PA++++. A retailer listing cites independent testing at SPF 63.2 and PFA 26.6 (PFA is the UVA protection factor the PA grade is based on) without naming the lab. Fragrance-free and alcohol-free; no water- or sweat-resistance claim. Airless pump, 50 ml.
 
@@ -557,23 +563,40 @@ Not the same product as [Haruharu Pure Mineral](#haruharu-pure-mineral): it shar
 
 [C10](#round-lab-camellia) Round Lab Camellia uses the same five filters, slightly higher in the list.
 
+<a id="neutrogena-ultra-sheer"></a><a id="neutrogena-clear-face"></a>
+
+### C12 & C13. Neutrogena Cloud Tech Ultra Sheer Daily Face SPF 70 and Clear Face SPF 60
+*the same four US filters at the same percentages; bemotrizinol at the 6% US limit*
+
+US Drug Facts labels, so the percentages are printed: avobenzone 3%, bemotrizinol 6%, homosalate 15% and octisalate 5%, each at the US maximum ([Concentration limits](#concentration-limits-and-photostability)), for 29% filter in total. These are the first US-market products on this list with bemotrizinol, which the US approved in June 2026 ([The 2026 US approval](#the-2026-us-approval-of-bemotrizinol)). Neutrogena markets the filter system as "Cloud Tech".
+
+**UVA.** Avobenzone is the only filter reaching past 360 nm, as in [C16](#dermab-everyday) Derma:B. The difference is stabilisation: bemotrizinol, the most effective avobenzone stabiliser, is present at twice the avobenzone's percentage, and the formula needs no octocrylene. Bemotrizinol also covers UVA-II with its 343 nm peak. With no zinc, bisoctrizole or MCE, the 370–400 nm window relies on the tail of avobenzone alone.
+
+**UVB.** Homosalate and octisalate, both salicylates, are the two weakest UVB filters in common use; together they make up 20% of the formula. Bemotrizinol's 310 nm peak adds efficient UVB. The labelled SPF 60 and 70 rest on that high total load. At 15%, homosalate is about twice the EU's 7.34% limit for face products, set in 2022 on endocrine (hormone-system) grounds; the US limit is 15%.
+
+**The two formulas.** The inactive ingredients are the same, in the same order, except that the Clear Face adds niacinamide (a form of vitamin B3 used for oiliness and redness) and the Ultra Sheer adds acetyl dipeptide-31 amide (a peptide, a short chain of amino acids, sold as Neutrogena's "Micro-Peptide Technology"). Both contain feverfew juice (*Chrysanthemum parthenium*); feverfew belongs to the daisy family, a recognised contact-allergy group, as with [C5](#round-lab-birch)'s chamomile. Neither list contains fragrance or essential oils. Both contain phenoxyethanol, a preservative restricted in Palau ([Reef regulations](#reef-regulations)). Triacontanyl PVP is a film-forming polymer used for water resistance, but Neutrogena's product pages make no water-resistance claim, so neither is a surfing option.
+
+The filters and their percentages are identical; the Ultra Sheer ranks above the Clear Face on its higher labelled SPF alone.
+
+**US label limits.** The labels say "Broad Spectrum" and carry no UVA grade, so the UVA ratings in [Coverage by band](#coverage-by-band) are worked out from the ingredients ([Regulatory regimes compared](#regulatory-regimes-compared)).
+
 <a id="numbuzin-no1"></a>
 
-### C12. numbuzin No.1 Clear Filter Sun Essence
+### C14. numbuzin No.1 Clear Filter Sun Essence
 *high extract content, low filter loading*
 
-The first three ingredients are licorice root water (20.55%), centella extract (15%), and houttuynia extract (14.25%) — roughly half the formula is water-phase extract before the first filter. UVB comes from ethylhexyl triazone and polysilicone-15, UVA from ecamsule and DHHB. Bemotrizinol sits 40th, at trace level. Long-UVA coverage is rated Weak–Moderate, below every other modern-filter product here except [C13](#iunik-sun-water) iUNIK.
+The first three ingredients are licorice root water (20.55%), centella extract (15%), and houttuynia extract (14.25%) — roughly half the formula is water-phase extract before the first filter. UVB comes from ethylhexyl triazone and polysilicone-15, UVA from ecamsule and DHHB. Bemotrizinol sits 40th, at trace level. Long-UVA coverage is rated Weak–Moderate, below every other modern-filter product here except [C15](#iunik-sun-water) iUNIK.
 
 <a id="iunik-sun-water"></a>
 
-### C13. iUNIK Centella Calming Daily Sun Water
+### C15. iUNIK Centella Calming Daily Sun Water
 *octisalate and ensulizole UVB base*
 
 UVB rests on **octisalate and ensulizole**, two of the least efficient UVB filters made — octisalate is mostly a solvent, and ensulizole is water-soluble with a narrow 310 nm profile. DHHB and bemotrizinol are present, ecamsule is 11th, and there is no bisoctrizole. The texture is the product's design priority; the filter load leaves the least margin for under-application of anything here.
 
 <a id="dermab-everyday"></a>
 
-### C14. Derma:B Everyday Sun Block SPF50+ PA++++
+### C16. Derma:B Everyday Sun Block SPF50+ PA++++
 *US-approvable filter set, avobenzone-dependent*
 
 Homosalate, octisalate, **avobenzone**, ensulizole, octocrylene. Every one of those is US-approved, and **none of the modern filters Korea actually permits appear at all** — no DHHB, no bemotrizinol, no bisoctrizole, no ecamsule. The filter system is one available in US-market products.
@@ -641,7 +664,7 @@ A **hybrid** (organic filters + titanium dioxide), and the only product here wit
 
 **Within-brand comparison.** [C8](#cosrx-ultra-light) COSRX Ultra-Light Invisible uses drometrizole trisiloxane, ethylhexyl triazone, DHHB and ecamsule at PA++++. The two share a brand and little else; this is an older formula retained in the range.
 
-*Summary:* on filters alone, the weakest of the thirty for fair skin. UVB is adequate at first and declines with exposure; UVA-I coverage is below every other product on the list.
+*Summary:* on filters alone, the weakest of the thirty-two for fair skin. UVB is adequate at first and declines with exposure; UVA-I coverage is below every other product on the list.
 
 <a id="notes-mineral"></a>
 
@@ -754,7 +777,7 @@ Zinc percentage alone does not predict SPF; the converting variable is the **veh
 
 The remainder of the formula includes soothing ingredients (ectoin, abyssine, bisabolol) and a broad antioxidant package (green tea, turmeric, holy basil, raspberry seed oil, tocopherol). Antioxidants neutralise free radicals (damaging molecules that UV creates in skin), which is complementary photoprotection, but they do not filter and contribute nothing to SPF or UVA-PF.
 
-*Indicated use:* low-exposure days, indoor-with-a-commute, layering under makeup, or reactive skin. **For fair skin on any meaningful sun exposure, SPF 30 is the floor of the useful range**, and it's the lowest UVB rating of the thirty (Moderate), shared with the other zinc-only SPF 30s ([M5](#waxhead-surf-paste)–[M9](#native-mineral-lotion), plus Thrive Balm and SKIN1004 Air-Fit under caution) and [C13](#iunik-sun-water) iUNIK. Zinc's flat curve still gives it a good UVA-to-UVB ratio — the protection it does provide is well-balanced — but there's less of it.
+*Indicated use:* low-exposure days, indoor-with-a-commute, layering under makeup, or reactive skin. **For fair skin on any meaningful sun exposure, SPF 30 is the floor of the useful range**, and it's the lowest UVB rating of the thirty-two (Moderate), shared with the other zinc-only SPF 30s ([M5](#waxhead-surf-paste)–[M9](#native-mineral-lotion), plus Thrive Balm and SKIN1004 Air-Fit under caution) and [C15](#iunik-sun-water) iUNIK. Zinc's flat curve still gives it a good UVA-to-UVB ratio — the protection it does provide is well-balanced — but there's less of it.
 
 <a id="native-mineral-lotion"></a>
 
@@ -1035,7 +1058,7 @@ Two caps are the result of recent restriction rather than long-standing limits: 
 | | EU / Australia | Japan | Korea | US |
 |---|---|---|---|---|
 | Filter access | Widest — includes ecamsule, drometrizole trisiloxane and MCE | Broad, no MCE | Broad, including MCE (since 2024) | **Narrowest** — bemotrizinol (2026), avobenzone, zinc, TiO₂, salicylates, octocrylene |
-| Typical UVA strategy | DHHB + bemotrizinol/bisoctrizole, increasingly + MCE | DHHB + bemotrizinol, often alongside octinoxate | DHHB + bemotrizinol/bisoctrizole | Avobenzone + octocrylene, or high-% zinc oxide |
+| Typical UVA strategy | DHHB + bemotrizinol/bisoctrizole, increasingly + MCE | DHHB + bemotrizinol, often alongside octinoxate | DHHB + bemotrizinol/bisoctrizole | Avobenzone + octocrylene, or high-% zinc oxide; avobenzone + bemotrizinol from 2026 |
 | SPF cap on label | SPF 50+ | SPF 50+ | SPF 50+ | **No cap in force** — SPF 70/100 sold; FDA proposed a 60+ cap in 2019, never finalized |
 | UVA requirement | EU: mandatory ratio (UVA-PF ≥ SPF/3) for the UVA seal. Australia: the same ratio for a "broad spectrum" claim, with no seal | PA rating, no mandatory ratio | PA rating, no mandatory ratio | **Pass/fail only** — "Broad Spectrum" = critical wavelength ≥ 370 nm, no ratio, no grading |
 | Regulatory class | EU: cosmetic. Australia: therapeutic good (primary sunscreens) | Cosmetic or quasi-drug (a category between cosmetic and medicine; both routes are used) | Functional cosmetic | **OTC (over-the-counter) drug** (monograph: the FDA's rulebook of approved ingredients and limits) |
@@ -1068,7 +1091,7 @@ For fair skin the gap matters more than average, because fair skin has less endo
 
 ## The 2026 US approval of bemotrizinol
 
-**What happened.** FDA Final Administrative Order OTC000039 (issued 10 June 2026, following the December 2025 proposed order) added bemotrizinol to OTC Monograph M020, finding it GRASE for adults and children 6 months and older at concentrations **up to 6%** in broad-spectrum products. It is the first new US sunscreen active since 1999. Products could legally ship from **9 August 2026**, so US formulations containing it are only now beginning to appear.
+**What happened.** FDA Final Administrative Order OTC000039 (issued 10 June 2026, following the December 2025 proposed order) added bemotrizinol to OTC Monograph M020, finding it GRASE for adults and children 6 months and older at concentrations **up to 6%** in broad-spectrum products. It is the first new US sunscreen active since 1999. Products could legally ship from **9 August 2026**, so US formulations containing it are only now beginning to appear. Neutrogena's two Cloud Tech face sunscreens ([C12](#neutrogena-ultra-sheer), [C13](#neutrogena-clear-face)), launched in September 2026, were among the first.
 
 **Why bemotrizinol first.** It had the strongest safety dossier of the pending filters: large molecule, minimal systemic absorption (very little reaches the bloodstream), the issue that stalled the older chemical filters in FDA's 2019–2020 maximal-usage trials (studies of how much reaches the blood under heavy use), photostable, and 25+ years of EU use history.
 
@@ -1084,7 +1107,7 @@ For fair skin the gap matters more than average, because fair skin has less endo
 
 **Caveat on timing.** DSM-Firmenich holds 18 months of exclusive marketing rights from approval (to roughly December 2027), which will shape how quickly it spreads across US brands and at what price.
 
-**Practical effect on this document:** twelve of the thirty sunscreens on [this list](#filter-systems-at-a-glance) contain bemotrizinol, and it is now the one modern filter on that list also buyable in a US-market product. The reason to import the rest is unchanged.
+**Practical effect on this document:** fourteen of the thirty-two sunscreens on [this list](#filter-systems-at-a-glance) contain bemotrizinol, and it is now the one modern filter on that list also buyable in a US-market product. [C12](#neutrogena-ultra-sheer) and [C13](#neutrogena-clear-face) Neutrogena are the first US-market products on the list to contain it, at the 6% limit alongside avobenzone, homosalate and octisalate. The reason to import the rest is unchanged.
 
 ---
 
@@ -1138,7 +1161,7 @@ Spectral coverage drops down the list because a filter system that has washed of
 
 ### Why most daily sunscreens fail here
 
-**The high-ranking Korean formulas are daily-wear products.** The watery essences and serums ([C3](#skin1004-water-fit) SKIN1004 Water-Fit, [C4](#boj-rice-probiotics) BOJ Rice + Probiotics, [C8](#cosrx-ultra-light) COSRX Ultra-Light, [C9](#boj-aqua-fresh) BOJ Aqua-Fresh) are engineered for cosmetic elegance and light feel on dry skin. They carry no water-resistance claim, their films are thin by design, and they are not built to survive abrasion. **[Isntree](#isntree-watery-sun-gel)** and **[C13](#iunik-sun-water) iUNIK** are gels and "sun waters" — even less durable. Built for daily wear, not water. [C2](#purito-daily-soft-touch) Purito claims water resistance without a tested duration; see its product note.
+**The high-ranking Korean formulas are daily-wear products.** The watery essences and serums ([C3](#skin1004-water-fit) SKIN1004 Water-Fit, [C4](#boj-rice-probiotics) BOJ Rice + Probiotics, [C8](#cosrx-ultra-light) COSRX Ultra-Light, [C9](#boj-aqua-fresh) BOJ Aqua-Fresh) are engineered for cosmetic elegance and light feel on dry skin. They carry no water-resistance claim, their films are thin by design, and they are not built to survive abrasion. **[Isntree](#isntree-watery-sun-gel)** and **[C15](#iunik-sun-water) iUNIK** are gels and "sun waters" — even less durable. Built for daily wear, not water. [C2](#purito-daily-soft-touch) Purito claims water resistance without a tested duration; see its product note.
 
 **Neither Thrive daily sunscreen ([M7](#thrive-sensitive), [Thrive Balm](#thrive-daily-balm)) carries a water-resistance claim** despite one being sold as a balm — [Thrive BodyShield](#thrive-bodyshield) 50 is the water-resistant one in their range. **[COSRX Aloe](#cosrx-aloe)** is the weakest choice in the water: no dedicated UVA-I filter, photounstable octinoxate, and octinoxate is restricted in Hawaii, Maui County and Palau.
 
