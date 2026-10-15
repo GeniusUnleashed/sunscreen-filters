@@ -399,9 +399,6 @@ On the body, with a sunshirt or wetsuit, what's exposed is **hands, feet, the ba
 | **7** | **LRP Anthelios UVMune 400**\* ([C1](#lrp-uvmune-400)) | SPF 50+ / water resistant | Best spectral coverage of anything here and water-resistant, but built for daily wear, not immersion. Better as your everyday sunscreen than your surf one. |
 | **8** | **Purito Daily Soft Touch** ([C2](#purito-daily-soft-touch)) | SPF 50+ / water resistant | Strong spectral coverage, with water, sweat and sand resistance claimed but not rated in minutes. Built for daily wear, not immersion. |
 | **9** | **LRP Anthelios Lait** ([C6](#lrp-lait-ultra-resistant)) | SPF 50+ / water resistant | Rubs in fully — eight filters, EU UVA seal, sold in 250 ml. "Ultra Résistant" is a water- and sweat-resistance claim on a film-forming base (ingredients that set into a continuous layer), but it is not rated in minutes, and its alcohol stings on eye contact. |
-| — | **Haruharu Black Rice Pure Mineral** ([⚑](#haruharu-pure-mineral)) | SPF 50+ PA++++ / no claim | No water-resistance claim, but an engineered water-in-silicone mineral film; mineral films hold up better to water than to rubbing. Can migrate with sweat and sting the eyes. |
-| — | **The Korean daily formulas** ([C3](#skin1004-water-fit), [C4](#boj-rice-probiotics), [C5](#round-lab-birch), [Isntree](#isntree-watery-sun-gel), [C8](#cosrx-ultra-light), [C9](#boj-aqua-fresh), [C10](#round-lab-camellia), [C11](#haruharu-airyfit), [C14](#numbuzin-no1), [SKIN1004 Air-Fit](#skin1004-air-fit-light), [C15](#iunik-sun-water), [C16](#dermab-everyday)) | daily-wear | Essences, serums and gels with no water-resistance claim and thin films by design. Built for daily wear, not water. |
-| ⛔ | **COSRX Aloe**\* ([⚑](#cosrx-aloe)) | — | No dedicated UVA-I filter, photounstable octinoxate, restricted in Hawaii, Maui County and Palau. |
 
 #### SCALP / THINNING HAIR — the neglected one
 
