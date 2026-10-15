@@ -848,6 +848,7 @@ Same filter, same SPF; one market permits a UVA grade and the other does not. Th
 **PA++++ at SPF 30.** Zinc's flat, continuous curve produces a high PPD relative to SPF. The EU seal is measured as UVA-PF rather than PPD, but a ratio this far above the EU's 1/3 requirement means the formulation would likely qualify for the UVA seal in Europe. The limiting side is UVB, not UVA.
 
 *Indicated use:* sensitive or reactive skin, low-to-moderate exposure. SPF 30 is the lower bound of the useful range for fair skin. Centella content is high at 29,400 ppm.
+
 ---
 
 # Part 4 — The science
