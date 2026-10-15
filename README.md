@@ -55,7 +55,7 @@ Last updated: 2026-10-07
 
 **Before you read:** I'm not a doctor, and this isn't medical advice. It's a collection of information I found online and pieced together with help from Claude, an AI assistant, which I used to read ingredient labels and research. Take everything here with a grain of salt, check it against your own research, and talk to a licensed professional, such as a dermatologist, if you have questions.
 
-C1–C14 and M1–M9 are ranks; ⚑ marks products held back for a caution. [How the ranking works](#how-the-ranking-works) is explained below the tables.
+C1–C14 and M1–M9 are ranks; ⚑ marks products held back for a caution. [How the ranking works](#how-the-ranking-works) is explained below the tables. Technical words are explained in [Terms used here](#terms-used-here), and filter names in [Filter names used here](#filter-names-used-here), both below the tables.
 
 <a id="chemical-filters"></a>
 
@@ -102,7 +102,7 @@ Hybrids, which add zinc oxide or titanium dioxide to chemical filters, are liste
 | **M4** [**Innisfree Daily UV Defense Mineral Sunscreen SPF 45**](#innisfree-mineral) | Good UVA/UVB ratio, total photostability, mid SPF, green tint. |
 | **M5** [**Waxhead Tinted Face Surf Paste SPF 30**](#waxhead-surf-paste) | Ranked here for *daily* use, where a wax paste is impractical. For surfing it moves to the top for nose, cheekbones and ears ([surfing](#surfing-and-water-sports)). |
 | **M6** [**Badger Active Mineral Sunscreen SPF 30**](#badger-active) | Lowest-dose Badger; 40-minute water resistance only. |
-| **M7** [**Thrive Daily Sunscreen for Sensitive Skin SPF 30**](#thrive-sensitive) | With [SKIN1004 Air-Fit](#skin1004-air-fit-light), the lowest-irritancy profile on the list: no fragrance, essential oils or organic filters. Limited by magnitude, not tolerability. |
+| **M7** [**Thrive Daily Sunscreen for Sensitive Skin SPF 30**](#thrive-sensitive) | With [SKIN1004 Air-Fit](#skin1004-air-fit-light), the least likely on the list to irritate skin: no fragrance, essential oils or organic filters. Limited by magnitude, not tolerability. |
 | **M8** [**Hero Superlight Sunscreen SPF 30**](#hero-superlight) | One of seven zinc-only SPF 30s ([M5](#waxhead-surf-paste)–[M9](#native-mineral-lotion), plus Thrive Balm and SKIN1004 Air-Fit under caution), which share the lowest UVB rating here. With [SKIN1004 Air-Fit](#skin1004-air-fit-light) and [M9](#native-mineral-lotion) it has the least zinc of the seven; gentle and accurate at what they claim. Only [SKIN1004 Air-Fit](#skin1004-air-fit-light) discloses a UVA grade (PA++++); US labels cannot carry one. |
 | **M9** [**Native Mineral Sunscreen Lotion SPF 30**](#native-mineral-lotion) | Same class as [M8](#hero-superlight). |
 
@@ -119,7 +119,7 @@ Hybrids, which add zinc oxide or titanium dioxide to chemical filters, are liste
 
 <a id="fragrance-key"></a>**\*** = contains added fragrance or essential oils. Fragrance does not change how much UV a sunscreen blocks. It matters for other reasons: fragrance is a leading cause of allergic skin reactions to cosmetics, and sunscreen is reapplied several times a day, so exposure adds up. Some citrus oils also contain furocoumarins (compounds that react with UVA light), which can cause burn-like reactions and lasting dark marks on skin in the sun. Essential oils such as pine and chamomile are potential allergens too.
 
-<a id="silicone-key"></a>**§** = contains a cyclic silicone: D5 (cyclopentasiloxane) or D6 (cyclohexasiloxane). The EU classes these as very persistent and very bioaccumulative in the environment, and restricts them to under 0.1% in leave-on cosmetics from 6 June 2027 (Regulation (EU) 2024/1328). The restriction is environmental; it is not based on a finding that they harm skin.
+<a id="silicone-key"></a>**§** = contains a cyclic silicone: D5 (cyclopentasiloxane) or D6 (cyclohexasiloxane). The EU classes these as very persistent and very bioaccumulative (slow to break down in nature, and building up in animals over time) in the environment, and restricts them to under 0.1% in leave-on cosmetics from 6 June 2027 (Regulation (EU) 2024/1328). The restriction is environmental; it is not based on a finding that they harm skin.
 
 <a id="how-the-ranking-works"></a>
 
@@ -133,7 +133,7 @@ Ranked products are labelled C1–C14 (chemical) and M1–M9 (mineral). Every pr
 
 Water resistance is noted where it changes the recommendation; [Surfing and water sports](#surfing-and-water-sports) re-ranks everything for surfing.
 
-**On quantity.** Body application needs roughly 25–30 ml to cover an adult at the tested 2 mg/cm² density — around a shot glass. This is the single most common reason real-world protection falls short of the label, and it is why large formats such as the 250 ml LRP Lait and 7 oz Native matter more than their formulas suggest.
+**On quantity.** Body application needs roughly 25–30 ml to cover an adult at the thickness used in lab tests (2 mg per square centimetre) — around a shot glass. This is the single most common reason real-world protection falls short of the label, and it is why large formats such as the 250 ml LRP Lait and 7 oz Native matter more than their formulas suggest.
 
 ---
 
@@ -142,18 +142,28 @@ Water resistance is noted where it changes the recommendation; [Surfing and wate
 ## Terms used here
 
 - **UV filter** — an ingredient that absorbs or scatters ultraviolet light.
+- **nm** (nanometre) — the unit for a light's wavelength (the light's place on the spectrum, much like a colour). A nanometre is a millionth of a millimetre. The UV covered in this document runs from 280 to 400 nm; visible light starts at 400.
 - **Chemical (organic) filter** — a carbon-based molecule that absorbs UV. **Mineral (physical) filter** — zinc oxide or titanium dioxide: particles that absorb and scatter UV.
 - **UVB** (280–320 nm) — the band that causes sunburn. **UVA** (320–400 nm) — reaches deeper into skin; split into **UVA-II** (320–340 nm) and **UVA-I** (340–400 nm). Because filter coverage thins past 370 nm, this document scores 340–370 nm as "UVA-I" and 370–400 nm as **long UVA**.
 - **SPF** (Sun Protection Factor) — how much longer UVB takes to redden skin. SPF 30 means 30× longer than unprotected skin. UVB only; carries no UVA information. In practice, SPF 30 lets through about 1/30 (3%) of burning UV and SPF 50 about 1/50 (2%), so SPF 30 lets through about 1.7 times as much.
 - **PA rating** (PA+ to PA++++) — the UVA grade used in Japan and Korea, based on PPD; PA++++ means PPD 16 or more.
 - **PPD** (Persistent Pigment Darkening) — the UVA equivalent of SPF. Measured by how much longer UVA exposure takes to produce lasting tanning. **PPD 16 = 16× longer.** This is the number the Japanese and Korean PA system is built on.
 - **UVA-PF** (UVA Protection Factor) — the European equivalent of PPD, measured in a lab on film rather than on skin. Used to check the EU's UVA-to-SPF ratio requirement.
+- **Absorbance** — how much light an ingredient absorbs (soaks up). A filter's **peak** is the wavelength it absorbs most strongly.
 - **Critical wavelength** — the wavelength below which 90% of a sunscreen's total absorbance sits. A higher number means protection extends further into UVA. 370 nm is the regulatory threshold.
 - **EU UVA seal** — "UVA" printed in a circle: the UVA-PF is at least one third of the SPF.
 - **"Broad Spectrum"** — the US label claim: a critical wavelength of at least 370 nm, with no grading above that.
 - **Photostable** — doesn't break down in sunlight. **Photolabile** or **photounstable** — does.
+- **Stabiliser** — an ingredient that protects a fragile filter from breaking down in sunlight.
 - **Water resistant (40 or 80 minutes)** — kept its labelled SPF after that long in a standard water test.
 - **INCI** — the standard international ingredient names printed on labels outside the US.
+- **Base (vehicle)** — everything in the bottle besides the UV filters. The base decides how evenly the filters spread on skin.
+- **Film** — the thin layer sunscreen leaves on skin. A **film-former** is an ingredient that helps that layer form and stay put.
+- **Emulsion** — oil and water mixed and held together by an **emulsifier**. **Water-in-oil** and **water-in-silicone** mean water droplets held inside an oil or silicone base, which water washes off less easily.
+- **Dispersion** — how evenly mineral particles are spread through the product. A **dispersant** keeps them spread out; **flocculating** means clumping together.
+- **Nano** and **non-nano** — the size of mineral filter particles (zinc oxide, titanium dioxide). In the EU, an ingredient counts as **nano** when its particles are 1–100 nanometres across, and the label must then print "(nano)" after its name. **Non-nano** means particles larger than 100 nanometres. For scale, 100 nanometres is about one-thousandth the width of a human hair. Smaller particles leave less white cast.
+- **Contact allergen** — an ingredient that can cause an itchy rash where it touches the skin of people sensitive to it.
+- **Symbols** — **≥** means "at least", **~** means "about", **→** means "leads to".
 
 ---
 
@@ -250,7 +260,7 @@ Ordered as in [the ranking](#the-ranking). **WR** = tested water resistance; **�
 
 ## Coverage by band
 
-Ratings come from filter identity **and position in the INCI list** (a filter listed 4th is present at a much higher percentage than one listed 40th). Position is only a rough guide between products, because the other ingredients and their amounts differ. Korean and Japanese products carry PA ratings, the two LRP products carry the EU UVA seal, and US products say only "Broad Spectrum" — so the US rows (marked **†**) are inferred from composition rather than read off a label ([Regulatory regimes compared](#regulatory-regimes-compared)).
+Ratings come from filter identity **and position in the INCI list** (a filter listed 4th is present at a much higher percentage than one listed 40th). Position is only a rough guide between products, because the other ingredients and their amounts differ. Korean and Japanese products carry PA ratings, the two LRP products carry the EU UVA seal, and US products say only "Broad Spectrum" — so the US rows (marked **†**) are worked out from the ingredients rather than read off a label ([Regulatory regimes compared](#regulatory-regimes-compared)).
 
 For products whose only filter is zinc oxide at a stated percentage, the UVA-I and long-UVA ratings follow that percentage: 22.5% or more = Strong, 18–21% = Good, 15–18% = Moderate. The rule applies where no PA grade is printed; where one is ([SKIN1004 Air-Fit](#skin1004-air-fit-light), about 11% zinc, PA++++), the tested grade takes precedence. Across brands, particle size and dispersion change both the strength and the spectral balance of zinc, so the rule is a rough guide; within one brand it is reliable.
 
@@ -304,7 +314,7 @@ For products whose only filter is zinc oxide at a stated percentage, the UVA-I a
 
 **⚑** = caution entry, not ranked; see [Chemical filters: caution](#chemical-caution) and [Mineral filters: caution](#mineral-caution).
 
-**†** = US product. US labels carry no UVA grade, so these rows' UVA ratings are inferred from composition.
+**†** = US product. US labels carry no UVA grade, so these rows' UVA ratings are worked out from the ingredients.
 
 ---
 
@@ -317,7 +327,7 @@ Priorities for fair skin, in order: (1) high, reliably-delivered UVB protection,
 **Tier 1 — the filters worth seeking out**
 
 1. **MCE** — the only filter purpose-built for the 370–400 nm gap. If a formula has it, it is almost certainly the best long-UVA protection you can buy.
-2. **Bisoctrizole** — broadest single organic filter, 360 nm peak with a long tail.
+2. **Bisoctrizole** — broadest single organic filter, 360 nm peak with a long tail (absorption that fades out gradually at longer wavelengths instead of stopping sharply).
 3. **DHHB** — photostable UVA-I anchor at 354 nm; the base of most modern European and Asian formulas.
 4. **Bemotrizinol** — broad + stabilizes everything else in the bottle.
 
@@ -332,13 +342,13 @@ Priorities for fair skin, in order: (1) high, reliably-delivered UVB protection,
 8. Titanium dioxide — real UVB, poor UVA-I.
 9. Avobenzone — good on paper, only as good as its stabilizer in practice.
 
-**Practical read:** a formula combining **DHHB + bemotrizinol + bisoctrizole**, or anything with **MCE**, will outperform an avobenzone-based US product on long UVA by a wide margin, at any matched SPF. Fair skin also benefits from **iron oxide tint** if melasma, rosacea, or photosensitizing medication is in play, since visible light isn't covered by SPF or PA at all.
+**Practical read:** a formula combining **DHHB + bemotrizinol + bisoctrizole**, or anything with **MCE**, will outperform an avobenzone-based US product on long UVA by a wide margin, at any matched SPF. Fair skin also benefits from **iron oxide tint** (a skin-coloured pigment that blocks visible light) if melasma (dark patches on the face), rosacea (facial redness), or photosensitizing medication (medicines or skincare that make skin burn more easily, such as tretinoin and other retinoids, or the antibiotic doxycycline) is in play, since visible light isn't covered by SPF or PA at all.
 
 <a id="why-uvb-first-then-all-of-uva"></a>
 
 ### Why UVB first, then all of UVA
 
-UVB is the band with direct evidence from people. In a randomised trial in Queensland, daily use of an SPF 16 sunscreen reduced squamous-cell skin cancer over 4.5 years [[1]](#ref-1), and the daily-use group had fewer melanomas over the following ten years [[2]](#ref-2) and 24% less skin aging [[3]](#ref-3). UVA counts in full, long UVA included. UVA makes up about 95% of the UV reaching the ground [[10]](#ref-10). In human volunteers it suppresses the skin's immune defences, with peaks of effect at 300 nm [[5]](#ref-5) and 370 nm [[4]](#ref-4). Studies in cells, mice and a small group of volunteers link UVA to delayed DNA damage [[6]](#ref-6), [[8]](#ref-8) and, in mice, to melanoma [[7]](#ref-7). No trial in people has yet measured whether better long-UVA coverage lowers skin-cancer rates; the main studies of long-UVA filters measure tanning and cell markers [[9]](#ref-9).
+UVB is the band with direct evidence from people. In a randomised trial (volunteers put into groups by chance) in Queensland, daily use of an SPF 16 sunscreen reduced squamous-cell skin cancer (a common type of skin cancer) over 4.5 years [[1]](#ref-1), and the daily-use group had fewer melanomas over the following ten years [[2]](#ref-2) and 24% less skin aging [[3]](#ref-3). UVA counts in full, long UVA included. UVA makes up about 95% of the UV reaching the ground [[10]](#ref-10). In human volunteers it suppresses the skin's immune defences, with peaks of effect at 300 nm [[5]](#ref-5) and 370 nm [[4]](#ref-4). Studies in cells, mice and a small group of volunteers link UVA to delayed DNA damage [[6]](#ref-6), [[8]](#ref-8) and, in mice, to melanoma [[7]](#ref-7). No trial in people has yet measured whether better long-UVA coverage lowers skin-cancer rates; the main studies of long-UVA filters measure tanning and cell markers (signs of damage in skin cells) [[9]](#ref-9).
 
 ---
 
@@ -374,7 +384,7 @@ On the body, with a sunshirt or wetsuit, what's exposed is **hands, feet, the ba
 
 | Rank | Product | SPF / water res. | Why |
 |---|---|---|---|
-| **1** | **Shiseido Anessa Perfect UV Skincare Milk**\* ([C7](#anessa-perfect-uv-milk)) | SPF 50+ PA++++ / 80 min | The film is claimed to strengthen on contact with water instead of degrading; nine filters, no octinoxate (can be sold in Hawaii); contains octocrylene and phenoxyethanol, restricted in Palau, and falls under Maui County's non-mineral ban ([Reef regulations](#reef-regulations)). Contains alcohol, which stings if it runs into the eyes. The separate **Mild Milk** is alcohol-free, with five filters including zinc oxide, DHHB and bemotrizinol; its water-resistance rating was not confirmed here. |
+| **1** | **Shiseido Anessa Perfect UV Skincare Milk**\* ([C7](#anessa-perfect-uv-milk)) | SPF 50+ PA++++ / 80 min | The film is claimed to strengthen on contact with water instead of degrading; nine filters, no octinoxate (can be sold in Hawaii); contains octocrylene and phenoxyethanol (a preservative), restricted in Palau, and falls under Maui County's non-mineral ban ([Reef regulations](#reef-regulations)). Contains alcohol, which stings if it runs into the eyes. The separate **Mild Milk** is alcohol-free, with five filters including zinc oxide, DHHB and bemotrizinol; its water-resistance rating was not confirmed here. |
 | **2** | **Waxhead Face Surf Paste** ([M5](#waxhead-surf-paste)) | SPF 30 / 80 min | Not a full-face product — a spot product for nose, cheekbones and ears, layered **on top of** a lotion. 25% zinc in beeswax is the format here best suited to surviving rails, wax and forearm rub, and it won't migrate into your eyes. |
 | **3** | **Bioré UV Athlizm**\* ([⚑](#biore-athlizm)) | SPF 50+ PA++++ / 80 min | 80-minute water resistance plus a stated friction-resistance claim ("Tough Boost"). Only downgraded for octinoxate — photounstable over a long session, and **cannot be sold in Hawaii, or sold or used in Maui County or Palau**. |
 | **4** | **Badger Adventure SPF 50** ([M1](#badger-adventure)) | SPF 50 / 80 min | Highest raw protection: 25% zinc (tied with Waxhead for the most here), unscented, four ingredients. Greasy and white — acceptable on a surf face. The default for hands and feet, where aesthetics are irrelevant. |
@@ -408,7 +418,7 @@ For fair skin on a multi-hour session, none of the above is the primary control.
 
 1. **A long-sleeve rash guard or wetsuit top.** UPF 50 fabric doesn't wash off, rub off, or expire at 80 minutes. This single item removes most of the exposed area from the problem.
 2. **A surf hat or cap with a brim**, or a hooded top, for scalp, ears and the part line — all easy to miss and all common sites for skin cancer, and scalp precisely because it goes unprotected. Nothing sprayed on a scalp survives repeated duck-dives.
-3. **Session timing.** Dawn patrol and late afternoon are not just less crowded; UV index before 9am and after 4pm is a fraction of midday.
+3. **Session timing.** Dawn patrol and late afternoon are not just less crowded; UV index (the sun-strength score in weather forecasts) before 9am and after 4pm is a fraction of midday.
 4. **SPF lip balm, every session.** The lower lip is a high-risk site and gets no protection from anything else here.
 5. **Then sunscreen**, applied ~20 minutes before paddling out so the film sets, and reapplied between sessions rather than trusting one application across four hours.
 
@@ -455,7 +465,7 @@ Eight filters, and the only one of them that matters most: **MCE**, peaking near
 ### C2. Purito Seoul Daily Soft Touch
 *DHHB + ethylhexyl triazone + bemotrizinol + bisoctrizole*
 
-Four filters, no filler, and all four sit high in the list (positions 5, 6, 7, 10): DHHB + ethylhexyl triazone + bemotrizinol + **bisoctrizole**. Ethylhexyl triazone carries the UVB load at high efficiency, DHHB anchors UVA-I at 354, and bisoctrizole's 360 nm peak with its long tail plus particulate scattering is what pushes coverage past 370. Nothing photolabile in the bottle. Ceramide-heavy base.
+Four filters, no filler, and all four sit high in the list (positions 5, 6, 7, 10): DHHB + ethylhexyl triazone + bemotrizinol + **bisoctrizole**. Ethylhexyl triazone carries the UVB load at high efficiency, DHHB anchors UVA-I at 354, and bisoctrizole's 360 nm peak with its long tail plus particulate scattering (made of tiny particles, which also bounce some light away) is what pushes coverage past 370. Nothing photolabile in the bottle. A base rich in ceramides (fats that are part of the skin's natural barrier).
 
 Purito claims the formula is water-, seawater-, sweat- and sand-resistant, with no tested duration stated, so it is not equivalent to the 80-minute products in [Surfing and water sports](#surfing-and-water-sports). Poly C10-30 alkyl acrylate in the base is a film-forming polymer used to improve water resistance.
 
@@ -466,7 +476,7 @@ Purito claims the formula is water-, seawater-, sweat- and sand-resistant, with 
 ### C3 & C4. SKIN1004 Hyalu-Cica Water-Fit and BOJ Relief Sun: Rice + Probiotics
 *the same four filters*
 
-Compare the two INCI lists: the same filter quartet in the same order. The SKIN1004 lists DHHB 4th, ethylhexyl triazone 6th, bisoctrizole 7th and iscotrizinol 11th; the BOJ lists them 5th, 7th, 9th and 12th, behind rice extract (30%) in second place. The emulsifier and polymer scaffold is the same, and the botanical/ferment tail differs. The protection is near-equivalent; the products differ mainly in price, scent, and extract package.
+Compare the two INCI lists: the same filter quartet in the same order. The SKIN1004 lists DHHB 4th, ethylhexyl triazone 6th, bisoctrizole 7th and iscotrizinol 11th; the BOJ lists them 5th, 7th, 9th and 12th, behind rice extract (30%) in second place. The emulsifiers (ingredients that hold oil and water together) and polymers (ingredients that thicken the formula and help form the layer on skin) are the same; the botanical and ferment extracts (plant and fermented ingredients) near the end of the list differ. The protection is near-equivalent; the products differ mainly in price, scent, and extract package.
 
 DHHB in **fourth position** in the SKIN1004 is tied with [C5](#round-lab-birch) for the highest UVA-I loading of any product in this list, and bisoctrizole covers long UVA. Iscotrizinol adds UVB at 311 nm. Photostable system.
 
@@ -530,7 +540,7 @@ Ethylhexyl triazone + drometrizole trisiloxane + ecamsule + DHHB, with bemotrizi
 
 Ethylhexyl triazone (4th), ecamsule (5th), DHHB (13th), polysilicone-15 (16th) and bemotrizinol (22nd): the same five filters as [C11](#haruharu-airyfit) Airyfit and [C12](#numbuzin-no1) numbuzin, in nearly the Airyfit's positions, with bemotrizinol higher (22nd against 30th). Same profile as [C8](#cosrx-ultra-light) and [C9](#boj-aqua-fresh): UVB and 320–360 nm well covered, 370–400 nm relying on filter tails.
 
-Hydroxypinacolone retinoate (HPR), a retinoid ester, is 45th of 55 ingredients — a trace amount. Lactic acid/glycolic acid copolymer (43rd) is a polymer, not free lactic or glycolic acid. Retailers describe it as alcohol-free and free of fragrance and essential oils.
+Hydroxypinacolone retinoate (HPR), a retinoid ester (a mild form of vitamin A used in skincare), is 45th of 55 ingredients — a trace amount. Lactic acid/glycolic acid copolymer (43rd) is a polymer, not free lactic or glycolic acid. Retailers describe it as alcohol-free and free of fragrance and essential oils.
 
 Labelled SPF 50+ PA++++. No water- or sweat-resistance claim found. 50 ml.
 
@@ -568,7 +578,7 @@ UVB rests on **octisalate and ensulizole**, two of the least efficient UVB filte
 
 Homosalate, octisalate, **avobenzone**, ensulizole, octocrylene. Every one of those is US-approved, and **none of the modern filters Korea actually permits appear at all** — no DHHB, no bemotrizinol, no bisoctrizole, no ecamsule. The filter system is one available in US-market products.
 
-**Avobenzone is the only UVA filter**, with limited stabilisation. Octocrylene is the only photostabiliser present and sits **10th**, below cetearyl alcohol, glyceryl stearate and the emulsifier system — so it's at a modest percentage relative to the avobenzone at 4th. Nothing else in the formula contributes: no bemotrizinol, no DEHN, no diethylhexyl syringylidenemalonate. Meaningful UVA loss over several hours of exposure should be expected.
+**Avobenzone is the only UVA filter**, with limited stabilisation. Octocrylene is the only photostabiliser present and sits **10th**, below cetearyl alcohol, glyceryl stearate and the emulsifier system — so it's at a modest percentage relative to the avobenzone at 4th. Nothing else in the formula contributes: no bemotrizinol, no DEHN (diethylhexyl 2,6-naphthalate, another avobenzone stabiliser), no diethylhexyl syringylidenemalonate. Meaningful UVA loss over several hours of exposure should be expected.
 
 **On the PA++++ rating.** PPD testing is measured on freshly applied product. **The rating does not express degradation of the filter earning it.** A PA++++ derived from photostable DHHB and bisoctrizole ([C2](#purito-daily-soft-touch), [C3](#skin1004-water-fit), [C4](#boj-rice-probiotics)) and one derived from lightly-stabilised avobenzone carry the same label but diverge over hours of exposure.
 
@@ -576,7 +586,7 @@ Homosalate, octisalate, **avobenzone**, ensulizole, octocrylene. Every one of th
 
 **Also contains fragrance**, and polyisobutene as a light film-former (no water-resistance claim).
 
-**Base formulation.** Derma:B's MLE lipid system (the myristoyl/palmitoyl oxostearamide/arachamide MEA is a ceramide-mimetic), madecassoside, prickly pear and aloe. Sold in 200 ml at low cost.
+**Base formulation.** Derma:B's MLE lipid system (a moisturising mix of skin-like fats; the myristoyl/palmitoyl oxostearamide/arachamide MEA is a ceramide-mimetic, an ingredient that acts like the skin's own ceramides), madecassoside (a soothing compound from centella), prickly pear and aloe. Sold in 200 ml at low cost.
 
 *Summary:* a well-formulated base around a dated filter system. Adequate for incidental daily exposure on the body; **inadequate for fair skin under sustained exposure**. [C2](#purito-daily-soft-touch), [C3](#skin1004-water-fit) and [C4](#boj-rice-probiotics) ship from the same market at comparable cost.
 
@@ -604,7 +614,7 @@ Contains cyclopentasiloxane (D5), a silicone restricted to under 0.1% in EU leav
 ### ⚑ Isntree HA Watery Sun Gel (new version)
 *bisoctrizole UVA over a salicylate UVB base*
 
-Has the best UVA trio available in Korea (bemotrizinol + bisoctrizole + DHHB), but leans on **homosalate and octisalate** — both weak, both listed above the modern filters — to build SPF. Homosalate is the ingredient the EU capped at 7.34% for face products in 2022 on endocrine grounds. Polysilicone-15 helps. Real long-UVA coverage thanks to bisoctrizole; the UVB side is doing more work with less efficient tools than Purito / SKIN1004 Water-Fit / BOJ Rice + Probiotics.
+Has the best UVA trio available in Korea (bemotrizinol + bisoctrizole + DHHB), but leans on **homosalate and octisalate** — both weak, both listed above the modern filters — to build SPF. Homosalate is the ingredient the EU capped at 7.34% for face products in 2022 on endocrine (hormone-system) grounds. Polysilicone-15 helps. Real long-UVA coverage thanks to bisoctrizole; the UVB side is doing more work with less efficient tools than Purito / SKIN1004 Water-Fit / BOJ Rice + Probiotics.
 
 Contains cyclopentasiloxane (D5), a silicone restricted to under 0.1% in EU leave-on cosmetics from 6 June 2027 under the same rule as [Haruharu Pure Mineral](#haruharu-pure-mineral)'s D6 — an environmental-persistence restriction, not a skin-safety one.
 
@@ -650,7 +660,7 @@ Three products, one vehicle (the base the filters sit in), one variable. All thr
 | **Badger Sport** SPF 40 | 22.5% | **40** | 80 min |
 | **Badger Adventure** SPF 50 | 25% | **50** | 80 min |
 
-**Each step up in zinc (3.75%, then 2.5%) buys roughly 10 more SPF.** This is a dose-response relationship across a fixed vehicle, and it qualifies the observation in [M8](#hero-superlight):
+**Each step up in zinc (3.75%, then 2.5%) buys roughly 10 more SPF.** This is a dose-response relationship (more zinc gives more protection, step by step) across a fixed vehicle, and it qualifies the observation in [M8](#hero-superlight):
 
 > **Zinc percentage predicts SPF reliably *within* a vehicle, and not at all *across* vehicles.** Badger holds the base constant and the relationship is nearly linear. Innisfree (17% → SPF 45), Hero (17.53% → SPF 30) and Native (17% → SPF 30) hold the *percentage* roughly constant across three different bases and the SPF swings by 50%. The comparison holds within a formula family, not across.
 
@@ -660,7 +670,7 @@ Three products, one vehicle (the base the filters sit in), one variable. All thr
 
 **Unresolved discrepancy.** Waxhead ([M5](#waxhead-surf-paste)) is also 25% zinc in an anhydrous wax base but tests at SPF 30. Both use uncoated non-nano zinc in oil and wax. Candidate explanations are zinc particle grade and dispersion quality (Badger specifies milled "clear zinc"), and the failure of a stiff paste to spread into the uniform film SPF testing measures. The labels do not distinguish between these.
 
-**Trade-offs.** These are thick, greasy, and cast white; sunflower oil and beeswax are not elegant on a face. Beeswax makes them vegetarian, not vegan. Allergen burden is close to zero absent a beeswax/propolis sensitivity. There are no antioxidant or barrier additives beyond vitamin E.
+**Trade-offs.** These are thick, greasy, and cast white; sunflower oil and beeswax are not elegant on a face. Beeswax makes them vegetarian, not vegan. Allergen burden is close to zero absent a sensitivity to beeswax or propolis (a resin bees make). There are no antioxidant or barrier additives beyond vitamin E.
 
 *Summary:* [M1](#badger-adventure) exceeds [C6](#lrp-lait-ultra-resistant) on long-UVA depth and [Thrive BodyShield](#thrive-bodyshield) on the absence of fragrance, at equivalent water resistance. [M3](#badger-sport) is the same formula at a lower dose with the same 80-minute rating. [M6](#badger-active) is the lowest dose of the three and the only one rated at 40 minutes.
 
@@ -686,15 +696,15 @@ Three products, one vehicle (the base the filters sit in), one variable. All thr
 ### M4. Innisfree Daily UV Defense Mineral SPF 45
 *17% zinc, SPF 45, green tint*
 
-The **US formulation** — Drug Facts layout, "Broad Spectrum SPF 45," a single active. It illustrates the constraint described in [Why the US filter list is narrow](#why-the-us-filter-list-is-narrow): under the US filter list, reaching past 370 nm without relying on avobenzone requires zinc oxide at high concentration.
+The **US formulation** — Drug Facts layout, "Broad Spectrum SPF 45," a single active ingredient (the UV filter). It illustrates the constraint described in [Why the US filter list is narrow](#why-the-us-filter-list-is-narrow): under the US filter list, reaching past 370 nm without relying on avobenzone requires zinc oxide at high concentration.
 
-**17% zinc oxide is a high loading** — near the practical ceiling for a cosmetically wearable formula. Zinc is the only true broad-spectrum mineral, absorbing and scattering from UVB through about 380 nm with a tail toward 400. The curve is flat and continuous with a high critical wavelength, producing a favourable UVA-to-UVB ratio and no inter-filter gaps. The limitation is magnitude: zinc is weak per percent, so 17% yields SPF 45, while modern organic systems reach SPF 50+ by combining several filters, typically about 15–25% in total. Being inert, it is completely photostable.
+**17% zinc oxide is a high loading** — near the practical ceiling for a cosmetically wearable formula. Zinc is the only true broad-spectrum mineral, absorbing and scattering from UVB through about 380 nm with a tail toward 400. The curve is flat and continuous with a high critical wavelength, producing a favourable UVA-to-UVB ratio and no gaps between filters' ranges. The limitation is magnitude: zinc is weak per percent, so 17% yields SPF 45, while modern organic systems reach SPF 50+ by combining several filters, typically about 15–25% in total. Being inert, it is completely photostable.
 
 **Against [M8](#hero-superlight) Hero Superlight.** Same active, near-identical concentration (17% vs 17.53%), but SPF 45 against SPF 30 — see [M8](#hero-superlight) for why the vehicle, not the percentage, produces that gap.
 
-**Tint composition.** Chromium Oxide Greens (CI 77288), listed 22nd alongside mica and synthetic fluorphlogopite, is there to cancel redness cosmetically. It is *not* iron oxide, and it is present at color-correcting rather than protective levels, so it contributes essentially nothing against visible light. The visible-light protection described in [Which filters matter most](#which-filters-matter-most-for-fair-skin) requires an **iron-oxide** tint; neither tinted product here (this and [M5](#waxhead-surf-paste) Waxhead) provides it.
+**Tint composition.** Chromium Oxide Greens (CI 77288), listed 22nd alongside mica and synthetic fluorphlogopite (a natural mineral and its lab-made version, ground into thin flakes that reflect light and give a soft glow), is there to cancel redness cosmetically. It is *not* iron oxide, and it is present at color-correcting rather than protective levels, so it contributes essentially nothing against visible light. The visible-light protection described in [Which filters matter most](#which-filters-matter-most-for-fair-skin) requires an **iron-oxide** tint; neither tinted product here (this and [M5](#waxhead-surf-paste) Waxhead) provides it.
 
-*Indicated use:* reactive or barrier-compromised skin, and applications where photodegradation is a concern. SPF 45 from a single weak-per-percent filter leaves limited headroom at high UV index, particularly given that mineral formulas are typically under-applied to limit white cast.
+*Indicated use:* reactive or barrier-compromised skin (skin whose protective outer layer is damaged), and applications where photodegradation (filters breaking down in sunlight) is a concern. SPF 45 from a single weak-per-percent filter leaves limited headroom at high UV index, particularly given that mineral formulas are typically under-applied to limit white cast.
 
 <a id="waxhead-surf-paste"></a>
 
@@ -703,13 +713,13 @@ The **US formulation** — Drug Facts layout, "Broad Spectrum SPF 45," a single 
 
 **25% non-nano uncoated zinc oxide**, organic coconut oil, organic beeswax, organic cocoa powder. That's the entire formula. SPF 30, **water-resistant 80 minutes**, meets the reef rules, fragrance-free.
 
-Anhydrous wax-and-oil bases are the most durable film chemistry in sunscreen: no water phase to break, high viscosity so the film does not migrate into the eyes, and beeswax resistance to the abrasion that strips lotions. On nose, cheekbones and ears over a long session it can be expected to outlast the lotions here, though no product here publishes a comparative abrasion test.
+Anhydrous wax-and-oil bases are the most durable film chemistry in sunscreen: no water phase to break, high viscosity (thickness) so the film does not migrate into the eyes, and beeswax resistance to the abrasion that strips lotions. On nose, cheekbones and ears over a long session it can be expected to outlast the lotions here, though no product here publishes a comparative abrasion test.
 
 **Highest zinc loading here at 25%, tied with Badger Adventure ([M1](#badger-adventure))** — which is why its UVA-I and long-UVA columns are marked Strong, above every other SPF 30 mineral here — long-UVA depth scales with zinc content, and nothing else here carries more. The SPF 30 reflects a thick, waxy vehicle that doesn't spread into a thin uniform film, but paste is typically applied well above the 2 mg/cm² test standard, so in-use performance tends to exceed the rated figure — an effect that does not apply to thin lotions.
 
-**On uncoated zinc.** Coatings (triethoxycaprylylsilane, alumina, aluminum stearate — see [M2](#blue-lizard-sensitive), [M4](#innisfree-mineral)) exist to *passivate* the particle surface, because bare zinc oxide is mildly photocatalytic and can generate reactive oxygen species under UV. Uncoated is therefore the less inert option. In this formulation the effect is limited: photocatalysis requires water and oxygen at the particle surface, and an anhydrous beeswax/coconut base restricts both. The same active in a water-based lotion would not carry that mitigation.
+**On uncoated zinc.** Coatings (triethoxycaprylylsilane, alumina, aluminum stearate — see [M2](#blue-lizard-sensitive), [M4](#innisfree-mineral)) exist to *passivate* the particle surface (to make it chemically inactive), because bare zinc oxide is mildly photocatalytic (triggers chemical reactions when light hits it) and can generate reactive oxygen species (unstable molecules that can damage skin cells) under UV. Uncoated is therefore the less inert option. In this formulation the effect is limited: photocatalysis requires water and oxygen at the particle surface, and an anhydrous beeswax/coconut base restricts both. The same active in a water-based lotion would not carry that mitigation.
 
-**Additional notes.** The cocoa tint is opaque rather than color-correcting, making coverage visible on application. It is not iron oxide and provides no meaningful visible-light protection. Coconut oil is comedogenic in some users. Beeswax makes the product vegetarian, not vegan. The four-ingredient list carries close to the lowest allergen burden on this list, absent beeswax/propolis sensitivity.
+**Additional notes.** The cocoa tint is opaque rather than color-correcting, making coverage visible on application. It is not iron oxide and provides no meaningful visible-light protection. Coconut oil is comedogenic (can clog pores) in some users. Beeswax makes the product vegetarian, not vegan. The four-ingredient list carries close to the lowest allergen burden on this list, absent beeswax/propolis sensitivity.
 
 *Summary:* impractical for daily wear; the strongest option for face-spot application in water sports ([surfing](#surfing-and-water-sports)).
 
@@ -725,13 +735,13 @@ Zinc oxide 20%, SPF 30. Put its list beside [Thrive Balm](#thrive-daily-balm) an
 - **Lippia Alba oil** (another essential oil).
 - **Coffea Arabica seed oil.**
 
-**What was added:** saccharide isomerate, a humectant.
+**What was added:** saccharide isomerate, a humectant (an ingredient that draws water into the skin).
 
-That is the full difference in ingredients, though the order differs (ethyl macadamiate is 10th here against 21st in the Balm), so the proportions are not identical. The phototoxic-citrus and fragrance contact-allergy considerations in [Thrive Balm](#thrive-daily-balm) do not apply here, at unchanged UV protection. The remaining botanicals — *Fridericia chica*, *Hamelia patens*, *Tasmannia lanceolata*, rosemary extract, sunflower oil — are antioxidants and anti-irritants, not essential oils.
+That is the full difference in ingredients, though the order differs (ethyl macadamiate is 10th here against 21st in the Balm), so the proportions are not identical. The phototoxic-citrus and fragrance contact-allergy considerations in [Thrive Balm](#thrive-daily-balm) do not apply here, at unchanged UV protection. The remaining botanicals — *Fridericia chica*, *Hamelia patens*, *Tasmannia lanceolata*, rosemary extract, sunflower oil — are antioxidants and anti-irritants (ingredients that calm irritation), not essential oils.
 
 **What doesn't change:** it's still 20% zinc delivering SPF 30, still among the least efficient conversions here (see the table in [Thrive Balm](#thrive-daily-balm)), and it carries **no water-resistance claim** — not a surfing option.
 
-*Summary:* the preferable of the two Thrive daily formulas. Alongside [SKIN1004 Air-Fit](#skin1004-air-fit-light), the lowest-irritancy profile on this list — no fragrance, no essential oils, no organic filters, complete photostability. The limitation is magnitude rather than tolerability: SPF 30 is the lower bound for sustained exposure.
+*Summary:* the preferable of the two Thrive daily formulas. Alongside [SKIN1004 Air-Fit](#skin1004-air-fit-light), the least likely on this list to irritate skin — no fragrance, no essential oils, no organic filters, complete photostability. The limitation is magnitude rather than tolerability: SPF 30 is the lower bound for sustained exposure.
 
 <a id="hero-superlight"></a>
 
@@ -742,7 +752,7 @@ Zinc oxide **17.53%**, sole active, US Drug Facts label. That is essentially the
 
 Zinc percentage alone does not predict SPF; the converting variable is the **vehicle** — how finely the particles are dispersed, whether they stay dispersed instead of flocculating, and whether the film dries down even across skin. Innisfree uses a silicone-elastomer system with triethoxycaprylylsilane-coated zinc and disteardimonium hectorite holding the dispersion. Hero uses an alkane/ester base with polyhydroxystearic acid and polyglyceryl-3 polyricinoleate as dispersants, tuned for a lighter feel and less cast. The lighter texture is the probable cost. **Mineral active percentage is not comparable across different vehicles**, though within one formula family it predicts SPF closely, as [M1](#badger-adventure), [M3](#badger-sport) and [M6](#badger-active) show.
 
-The remainder of the formula includes ectoin and abyssine for barrier stress, bisabolol, and a broad antioxidant package (green tea, turmeric, holy basil, raspberry seed oil, tocopherol). Antioxidants quench UV-generated free radicals, which is complementary photoprotection, but they do not filter and contribute nothing to SPF or UVA-PF.
+The remainder of the formula includes soothing ingredients (ectoin, abyssine, bisabolol) and a broad antioxidant package (green tea, turmeric, holy basil, raspberry seed oil, tocopherol). Antioxidants neutralise free radicals (damaging molecules that UV creates in skin), which is complementary photoprotection, but they do not filter and contribute nothing to SPF or UVA-PF.
 
 *Indicated use:* low-exposure days, indoor-with-a-commute, layering under makeup, or reactive skin. **For fair skin on any meaningful sun exposure, SPF 30 is the floor of the useful range**, and it's the lowest UVB rating of the thirty (Moderate), shared with the other zinc-only SPF 30s ([M5](#waxhead-surf-paste)–[M9](#native-mineral-lotion), plus Thrive Balm and SKIN1004 Air-Fit under caution) and [C13](#iunik-sun-water) iUNIK. Zinc's flat curve still gives it a good UVA-to-UVB ratio — the protection it does provide is well-balanced — but there's less of it.
 
@@ -753,7 +763,7 @@ The remainder of the formula includes ectoin and abyssine for barrier stress, bi
 
 Zinc oxide 17%, SPF 30, unscented, US; sold in 7 oz at low cost. Set it beside the Innisfree ([M4](#innisfree-mineral)): **identical 17% zinc, SPF 45 there against SPF 30 here.** A third instance of vehicle determining mineral SPF, here with active concentration held constant.
 
-The base explains it. This is a straightforward oil-in-water lotion — steareth-2/steareth-21 and laureth-7 as emulsifiers, fatty alcohols for body, polyacrylamide as thickener, isohexadecane and C13-14 isoalkane as emollients. There are no volatile silicones to flash off into a thin even film, no film-forming resins, and one dispersant (polyhydroxystearic acid) alongside silane-coated zinc.
+The base explains it. This is a straightforward oil-in-water lotion — steareth-2/steareth-21 and laureth-7 as emulsifiers, fatty alcohols for body, polyacrylamide as thickener, isohexadecane and C13-14 isoalkane as emollients. There are no volatile silicones (silicones that flash off, or evaporate within moments of application, leaving a thin even film behind), no film-forming resins, and one dispersant (polyhydroxystearic acid) alongside silane-coated zinc.
 
 **No water-resistance claim** — the label directs reapplication every two hours with no immersion rating. Not a water-sports product ([surfing](#surfing-and-water-sports)).
 
@@ -772,9 +782,9 @@ The base explains it. This is a straightforward oil-in-water lotion — steareth
 
 Zinc oxide **23.5%**, **SPF 50**, **water-resistant 80 minutes**, meets the reef rules ([Reef regulations](#reef-regulations)). Within the same brand and botanical package, the conversion moves from 20% zinc → SPF 30 ([M7](#thrive-sensitive), [Thrive Balm](#thrive-daily-balm)) to **23.5% zinc → SPF 50**. A 3.5-point increase in active does not account for a 20-point increase in SPF.
 
-**Vehicle.** The daily formulas are oil-in-water lotions (oil droplets in a water base). This is a **water-in-oil** system — polyglyceryl-2 oleate, stearate and sesquioleate as W/O emulsifiers, with **magnesium sulfate** as the electrolyte stabilising the internal water phase (the same tell as the [Haruharu Pure Mineral](#haruharu-pure-mineral)). W/O emulsions are inherently more water-resistant because the external phase is oil. Then it stacks three film-formers on top:
+**Vehicle.** The daily formulas are oil-in-water lotions (oil droplets in a water base). This is a **water-in-oil** system — polyglyceryl-2 oleate, stearate and sesquioleate as W/O emulsifiers, with **magnesium sulfate** as the electrolyte (a dissolved salt) stabilising the internal water phase (the water droplets held inside the oil; the same tell as the [Haruharu Pure Mineral](#haruharu-pure-mineral)). W/O emulsions are inherently more water-resistant because the external phase is oil. Then it stacks three film-formers on top:
 
-- **Methyl dihydroabietate** — a hydrogenated rosin ester, a tackifier that makes the film adhere.
+- **Methyl dihydroabietate** — a hydrogenated rosin ester (an ingredient made from pine resin), a tackifier that makes the film sticky so it stays on.
 - **Capryloyl glycerin/sebacic acid copolymer** — film-forming, water-resistance booster.
 - **Galactoarabinan** — a larch polysaccharide used specifically to improve SPF and water resistance.
 
@@ -795,14 +805,14 @@ Zinc oxide as sole filter, second on the INCI list, at **SPF 50+ PA++++**. (The 
 
 **Vehicle.** Cyclohexasiloxane, methyl trimethicone and isododecane are volatile carriers that flash off and leave a thin, continuous film; polyglyceryl-3 polydimethylsiloxyethyl dimethicone is a water-in-silicone emulsifier; disteardimonium hectorite and polyglyceryl-2 dipolyhydroxystearate keep the zinc from flocculating; triethoxycaprylylsilane is the particle coating. This is the same architecture as the Innisfree ([M4](#innisfree-mineral)), executed harder — and it is the direct proof of the lesson in [M8](#hero-superlight): **identical active, wildly different SPF, decided by the base.**
 
-**Coverage.** Zinc's flat curve means no inter-filter gaps and a high critical wavelength. With PA++++ at SPF 50+ it rates Strong in UVB and UVA-II and Good in UVA-I and long UVA, holding up in the 370–400 nm window where the organic Korean formulas without bisoctrizole fall away. It is completely photostable. [C2](#purito-daily-soft-touch), [C3](#skin1004-water-fit), [C4](#boj-rice-probiotics), [C5](#round-lab-birch) and [Isntree](#isntree-watery-sun-gel) have greater absolute long-UVA absorbance.
+**Coverage.** Zinc's flat curve means no gaps between filters' ranges and a high critical wavelength. With PA++++ at SPF 50+ it rates Strong in UVB and UVA-II and Good in UVA-I and long UVA, holding up in the 370–400 nm window where the organic Korean formulas without bisoctrizole fall away. It is completely photostable. [C2](#purito-daily-soft-touch), [C3](#skin1004-water-fit), [C4](#boj-rice-probiotics), [C5](#round-lab-birch) and [Isntree](#isntree-watery-sun-gel) have greater absolute long-UVA absorbance.
 
 **Two caveats.**
 
 1. **Minerals punish thin application more than organics do.** SPF 50+ assumes 2 mg/cm². A mineral film that isn't continuous has holes in it in a way a dissolved organic filter does not, and mineral formulas are exactly the ones people under-apply to avoid cast.
-2. **It would not be EU-legal from June 2027.** Cyclohexasiloxane (D6) is restricted to <0.1% in leave-on cosmetics under Commission Regulation (EU) 2024/1328, applying to leave-on products from 6 June 2027 (rinse-off from 6 June 2026). This is a REACH environmental-persistence restriction, not a skin-safety one — it says nothing about using the product. EU compliance and skin safety are separate questions here.
+2. **It would not be EU-legal from June 2027.** Cyclohexasiloxane (D6) is restricted to <0.1% in leave-on cosmetics under Commission Regulation (EU) 2024/1328, applying to leave-on products from 6 June 2027 (rinse-off from 6 June 2026). This is a REACH (the EU's chemical-safety law) environmental-persistence restriction, not a skin-safety one — it says nothing about using the product. EU compliance and skin safety are separate questions here.
 
-**Electrolyte package.** Sodium chloride, disodium phosphate, potassium chloride and potassium phosphate closing out the list are not skincare actives — they are there to stabilise the internal water phase of a water-in-silicone emulsion and stop the droplets coalescing. Combined with the two dispersants and the silane-coated zinc, the formulation is an engineered high-load mineral dispersion rather than zinc suspended in a cream, which accounts for the SPF 50+.
+**Electrolyte package.** Sodium chloride, disodium phosphate, potassium chloride and potassium phosphate closing out the list are not skincare actives — they are there to stabilise the internal water phase of a water-in-silicone emulsion and stop the droplets coalescing (merging). Combined with the two dispersants and the silane-coated zinc, the formulation is an engineered high-load mineral dispersion rather than zinc suspended in a cream, which accounts for the SPF 50+.
 
 Not the same product as [C11](#haruharu-airyfit) Airyfit, which shares the Black Rice name but uses organic filters only.
 
@@ -824,7 +834,7 @@ This is the clearest example on the list of the relationship described in [M8](#
 
 **Not water-resistant.** Despite the balm name, this carries no water-resistance claim; Thrive's BodyShield 50 is their water-resistant product. **Not a surfing option** ([surfing](#surfing-and-water-sports)).
 
-**Fragrance.** The natural fragrance is a blend of orange, grapefruit, lemon, anise, peppermint, davana, patchouli, vetiver, cedarwood and guaiacwood oils. Cold-pressed citrus peel oils contain **furocoumarins** (bergapten, oxypeucedanin), which are **phototoxic** — they react with UVA to cause phytophotodermatitis, a burn-like reaction with lingering hyperpigmentation. Steam-distilled or furocoumarin-free (FCF) citrus oils don't do this, and IFRA limits phototoxic constituents, so a compliant product would use FCF material — the label does not specify, and the INCI does not distinguish. Fragrance is also the leading cause of contact allergy in cosmetics.
+**Fragrance.** The natural fragrance is a blend of orange, grapefruit, lemon, anise, peppermint, davana, patchouli, vetiver, cedarwood and guaiacwood oils. Cold-pressed citrus peel oils contain **furocoumarins** (bergapten, oxypeucedanin), which are **phototoxic** — they react with UVA to cause phytophotodermatitis, a burn-like reaction with lingering hyperpigmentation (dark marks that can last for months). Steam-distilled or furocoumarin-free (FCF) citrus oils don't do this, and IFRA (the fragrance industry's safety-standards body) limits phototoxic constituents, so a compliant product would use FCF material — the label does not specify, and the INCI does not distinguish. Fragrance is also the leading cause of contact allergy in cosmetics.
 
 *Summary:* accurate at its stated SPF 30. Among the least efficient conversions here, no water resistance, and the only difference from [M7](#thrive-sensitive) is the addition of a citrus fragrance — which moves it to the caution section; on filters alone it sits between [M7](#thrive-sensitive) and [M8](#hero-superlight).
 
@@ -862,12 +872,12 @@ Ultraviolet light occupies **100–400 nm**, between X-rays and visible light. S
 | Band | Wavelength | Share of ground-level UV | Reaches | Primary effects |
 |---|---|---|---|---|
 | **UVC** | 100–280 nm | **0%** | Nothing — fully absorbed by ozone and atmospheric O₂ | Only relevant from artificial sources: germicidal lamps, welding arcs |
-| **UVB** | 280–320 nm | **~5%** | Epidermis, down to the basal layer | Sunburn, direct DNA damage (pyrimidine dimers), vitamin D synthesis, most skin-cancer initiation |
-| **UVA-II** | 320–340 nm | ~5–10% | Epidermis and upper dermis | Burn contribution, immediate and persistent pigment darkening |
-| **UVA-I** | 340–400 nm | **~85–90%** | Full dermis | Photoaging (collagen and elastin breakdown), indirect oxidative DNA damage, melasma, drug photosensitivity |
+| **UVB** | 280–320 nm | **~5%** | Epidermis (the outer layer of skin), down to the basal layer (the deepest layer of the epidermis) | Sunburn, direct DNA damage (pyrimidine dimers, a type of DNA damage), vitamin D synthesis, most skin-cancer initiation |
+| **UVA-II** | 320–340 nm | ~5–10% | Epidermis and upper dermis (the thicker layer beneath the epidermis) | Burn contribution, immediate and persistent pigment darkening |
+| **UVA-I** | 340–400 nm | **~85–90%** | Full dermis | Photoaging (sun-caused skin aging: breakdown of collagen and elastin, the proteins that keep skin firm and springy), indirect oxidative DNA damage (damage caused by unstable molecules that UV creates), melasma, drug photosensitivity |
 | *— long UVA-I* | *370–400 nm* | *the largest single slice* | *Deepest dermal penetration* | *Where filter coverage is thinnest; see [Coverage by band](#coverage-by-band)* |
-| **Visible light** | 400–700 nm | n/a (not UV) | Dermis and below | Pigmentation in melasma and darker phototypes; blocked only by pigments such as iron oxide |
-| **Infrared-A** | 780–1400 nm | n/a (not UV) | Subcutis | Contributes to photoaging; not covered by SPF or PA |
+| **Visible light** | 400–700 nm | n/a (not UV) | Dermis and below | Pigmentation in melasma and darker phototypes (skin types); blocked only by pigments such as iron oxide |
+| **Infrared-A** | 780–1400 nm | n/a (not UV) | Subcutis (the fat layer under the skin) | Contributes to photoaging; not covered by SPF or PA |
 
 Ozone absorbs all UVC and most UVB, and very little UVA. The practical result is the ratio above: **roughly 19 of every 20 UV photons reaching skin are UVA**, and the great majority of those are UVA-I.
 
@@ -875,7 +885,7 @@ Ozone absorbs all UVC and most UVB, and very little UVA. The practical result is
 
 UVA is subdivided because its behaviour changes across the band, not because the boundaries are physical:
 
-- **320–340 nm (UVA-II)** behaves partly like UVB — it contributes to erythema and is absorbed by most conventional filters.
+- **320–340 nm (UVA-II)** behaves partly like UVB — it contributes to erythema (skin reddening, as in sunburn) and is absorbed by most conventional filters.
 - **340–370 nm** is covered by the standard modern UVA filters (avobenzone peaks at 357, DHHB at 354).
 - **370–400 nm** is where nearly all filters have fallen off their absorbance peak. Coverage here comes from filter tails, zinc oxide, or MCE. This document tracks it as a separate column in [Coverage by band](#coverage-by-band) for that reason.
 
@@ -889,7 +899,7 @@ UVA is subdivided because its behaviour changes across the band, not because the
 | Ordinary window glass | Blocked almost entirely | **Transmits most UVA-I** |
 | Laminated windshield glass | Blocked | Largely blocked |
 | Cloud cover | Reduced, but substantial transmission remains | Largely transmitted |
-| Seawater at 50 cm depth | Strongly attenuated | **~50% still present** |
+| Seawater at 50 cm depth | Strongly attenuated (weakened) | **~50% still present** |
 | Snow / sand / sea-foam reflectance | Up to 80% (snow), about 15% (dry sand), about 25% (sea foam) | Similar |
 
 The consequences: sun exposure through a car side window or an office window is almost entirely UVA; overcast days still deliver most of the UVA load; and dawn or late-afternoon timing reduces UVB far more than it reduces UVA.
@@ -916,7 +926,7 @@ Definitions of SPF, PPD, UVA-PF and critical wavelength are in [Terms used here]
 
 Sunscreen labels outside the US use **INCI** names. The marketing names (Tinosorb, Uvinul, Mexoryl) do not appear on packaging. Same molecules, different naming convention.
 
-**Ordered by how far into long UVA each filter reaches**, longest first. Range is the span over which the filter absorbs usefully; peak is where absorbance is highest within that span. Minerals attenuate continuously rather than at a resonance, so they have no meaningful peak.
+**Ordered by how far into long UVA each filter reaches**, longest first. Range is the span over which the filter absorbs usefully; peak is where absorbance is highest within that span. Minerals attenuate light evenly across a wide range rather than at a resonance (one wavelength the molecule is tuned to), so they have no meaningful peak.
 
 **Two numbers joined by a plus sign — 305 + 360, 310 + 343, 303 + 344 — mean the filter has two absorbance maxima, not a range.** The molecule carries two light-absorbing groups (chromophores) tuned to different wavelengths, so it absorbs strongly at both, with a shallower trough between them. One peak sits in UVB and the other in UVA, which is how a single molecule covers both bands.
 
@@ -957,7 +967,7 @@ Rows marked **†** carry a caveat that changes how the range should be read —
 - **Zinc Oxide** — the range is real but the *magnitude* across it is low. Zinc is weak per percent and requires 15–25% loading to reach high SPF, which brings white cast and thick texture ([Product notes](#product-notes)).
 - **Avobenzone** — the 380 nm figure holds only while the filter is intact. Without a stabiliser it loses a large share of its absorbance within hours of sun [[13]](#ref-13); the effective range narrows as it does. Requires octocrylene, bemotrizinol or a dedicated stabiliser.
 - **Titanium Dioxide** — broadband like zinc, but its absorbance fades out across UVA-I. It is not a long-UVA filter despite being a mineral.
-- **Ecamsule** — water-soluble, so it partitions into the water phase and cannot be used in anhydrous formulas. In the US it is available only through specific NDA-approved products (an NDA is a US approval covering one specific product).
+- **Ecamsule** — water-soluble, so it partitions into the water phase (stays in the watery part of the formula) and cannot be used in anhydrous formulas. In the US it is available only through specific NDA-approved products (an NDA is a US approval covering one specific product).
 - **Bemotrizinol** — capped at 10% in the EU but **6% in the US**, so US formulas cannot use it as heavily. US approval dates to June 2026 ([The 2026 US approval](#the-2026-us-approval-of-bemotrizinol)).
 - **Bisdisulizole** — water-soluble; same formulation constraint as ecamsule.
 - **Octinoxate** — photounstable, particularly alongside avobenzone, and restricted in Hawaii, Maui County and Palau ([Reef regulations](#reef-regulations)).
@@ -1010,7 +1020,7 @@ Same order as [the filter table](#the-filters-and-where-each-sits-on-the-spectru
 | **Octisalate** | 5% | 5% | Good |
 | **Homosalate** | **7.34%** (face) | 15% | Good |
 
-Two caps are the result of recent restriction rather than long-standing limits: **homosalate** was cut to 7.34% in EU face products in 2022 on endocrine grounds, and **benzophenone-3** to 6% in the same revision. The US retains 15% for homosalate.
+Two caps are the result of recent restriction rather than long-standing limits: **homosalate** was cut to 7.34% in EU face products in 2022 on endocrine (hormone-system) grounds, and **benzophenone-3** to 6% in the same revision. The US retains 15% for homosalate.
 
 **Reading the two columns together:** the filters with the highest EU ceilings are mostly the ones the US has not approved, so the constraint compounds. A European formula can combine 10% bisoctrizole with 10% DHHB and 10% bemotrizinol; the US equivalent has 6% bemotrizinol, 3% avobenzone and zinc oxide.
 
@@ -1028,13 +1038,13 @@ Two caps are the result of recent restriction rather than long-standing limits: 
 | Typical UVA strategy | DHHB + bemotrizinol/bisoctrizole, increasingly + MCE | DHHB + bemotrizinol, often alongside octinoxate | DHHB + bemotrizinol/bisoctrizole | Avobenzone + octocrylene, or high-% zinc oxide |
 | SPF cap on label | SPF 50+ | SPF 50+ | SPF 50+ | **No cap in force** — SPF 70/100 sold; FDA proposed a 60+ cap in 2019, never finalized |
 | UVA requirement | EU: mandatory ratio (UVA-PF ≥ SPF/3) for the UVA seal. Australia: the same ratio for a "broad spectrum" claim, with no seal | PA rating, no mandatory ratio | PA rating, no mandatory ratio | **Pass/fail only** — "Broad Spectrum" = critical wavelength ≥ 370 nm, no ratio, no grading |
-| Regulatory class | EU: cosmetic. Australia: therapeutic good (primary sunscreens) | Cosmetic or quasi-drug (both routes are used) | Functional cosmetic | **OTC drug** (monograph: the FDA's rulebook of approved ingredients and limits) |
+| Regulatory class | EU: cosmetic. Australia: therapeutic good (primary sunscreens) | Cosmetic or quasi-drug (a category between cosmetic and medicine; both routes are used) | Functional cosmetic | **OTC (over-the-counter) drug** (monograph: the FDA's rulebook of approved ingredients and limits) |
 | Strength | Highest guaranteed UVA floor; best long-UVA filters | Cosmetic elegance, watery textures, high SPF at low residue | Elegance + affordability; hybrid skincare formulas | Drug-grade manufacturing and labeling oversight; strong water-resistance testing |
 | Weakness | Textures often heavier | Some formulas still lean on octinoxate/avobenzone | UVA-PF not always disclosed; SPF test consistency has been questioned | Narrow filter list; no long-UVA filter but zinc; UVA protection invisible on the label |
 
 **Key asymmetry #1 — how much UVA is guaranteed.** The EU's mandatory 1:3 ratio means an SPF 50 European product must deliver UVA-PF ≥ 16.7. Japan's and Korea's PA++++ only guarantees PPD ≥ 16 regardless of SPF — so a PA++++ SPF 50 Asian sunscreen *can* meet a lower bar than an EU SPF 50 with the seal, even though both look "maxed out" on the label.
 
-**Key asymmetry #2 — the US tells you the least.** "Broad Spectrum" is a single pass/fail threshold (critical wavelength ≥ 370 nm) with no grading above it. A US product scraping past 370 nm and one with excellent 380 nm protection carry the identical claim, and there is no PA rating or UVA seal to separate them. This is why the US products in [Coverage by band](#coverage-by-band) can't be compared to the Asian ones on label data alone — the information simply isn't printed, so their UVA ratings there are inferred from composition. It also means a high US SPF number can pair with mediocre UVA protection perfectly legally, which is the opposite of the EU arrangement, where UVA scales with SPF by law.
+**Key asymmetry #2 — the US tells you the least.** "Broad Spectrum" is a single pass/fail threshold (critical wavelength ≥ 370 nm) with no grading above it. A US product scraping past 370 nm and one with excellent 380 nm protection carry the identical claim, and there is no PA rating or UVA seal to separate them. This is why the US products in [Coverage by band](#coverage-by-band) can't be compared to the Asian ones on label data alone — the information simply isn't printed, so their UVA ratings there are worked out from the ingredients. It also means a high US SPF number can pair with mediocre UVA protection perfectly legally, which is the opposite of the EU arrangement, where UVA scales with SPF by law.
 
 ---
 
@@ -1050,7 +1060,7 @@ The gap is still wide. The practical consequence today:
 - **In the US, only zinc oxide and avobenzone reach past 370 nm**, and avobenzone only while it is intact. No bisoctrizole, no DHHB, no MCE.
 - Everywhere else — EU, UK, Australia, Japan, Korea — has access to modern filters that are photostable, cover further into long UVA, and work at lower use levels (better texture).
 
-For fair skin the gap matters more than average, because fair skin has less endogenous protection against both the erythemal (sunburn-causing, UVB) band and the long-UVA band that drives photoaging and, in some data, melanoma risk.
+For fair skin the gap matters more than average, because fair skin has less endogenous protection (protection the skin makes itself) against both the erythemal (sunburn-causing, UVB) band and the long-UVA band that drives photoaging and, in some data, melanoma risk.
 
 ---
 
@@ -1060,7 +1070,7 @@ For fair skin the gap matters more than average, because fair skin has less endo
 
 **What happened.** FDA Final Administrative Order OTC000039 (issued 10 June 2026, following the December 2025 proposed order) added bemotrizinol to OTC Monograph M020, finding it GRASE for adults and children 6 months and older at concentrations **up to 6%** in broad-spectrum products. It is the first new US sunscreen active since 1999. Products could legally ship from **9 August 2026**, so US formulations containing it are only now beginning to appear.
 
-**Why bemotrizinol first.** It had the strongest safety dossier of the pending filters: large molecule, minimal systemic absorption (the issue that stalled the older chemical filters in FDA's 2019–2020 maximal-usage trials), photostable, and 25+ years of EU use history.
+**Why bemotrizinol first.** It had the strongest safety dossier of the pending filters: large molecule, minimal systemic absorption (very little reaches the bloodstream), the issue that stalled the older chemical filters in FDA's 2019–2020 maximal-usage trials (studies of how much reaches the blood under heavy use), photostable, and 25+ years of EU use history.
 
 **What it fixes:**
 - US formulators finally get a photostable broad-spectrum filter that carries real UVB *and* UVA-II load.
@@ -1099,7 +1109,7 @@ Without it, the closest substitutes are the **bisoctrizole** products ([C2](#pur
 - **Duration and timing.** Sessions run 2–4 hours, often straddling 10am–2pm when UV index peaks. Nothing in this document is rated beyond **80 minutes** of water immersion. That is the maximum claim the US and EU allow (Australia's standard allows claims of up to 4 hours), and it is a test result, not a promise.
 - **No reapplication.** You cannot reapply sitting in the lineup. Whatever is on your face at paddle-out is what you have, minus what the session takes off.
 - **Water doesn't shield you.** UVA penetrates seawater — roughly half of it is still present at 50 cm depth — and white water reflects about a quarter back up at you, so a duck-dive is not a break.
-- **Friction, not water, is the real failure mode.** Chest on the wax, forearms on the rails, wetsuit neck against the jaw, hands wiping salt out of your eyes. Mechanical abrasion strips film faster than immersion does, and almost no product is tested for it.
+- **Friction, not water, is the real failure mode.** Chest on the wax, forearms on the rails, wetsuit neck against the jaw, hands wiping salt out of your eyes. Mechanical abrasion (rubbing) strips film faster than immersion does, and almost no product is tested for it.
 - **You won't feel it.** Wind and cold water suppress the heat cue that normally makes you seek shade.
 - **Odd exposure map.** Wetsuit or rash guard covers the torso; what burns is face, ears, back of the neck, the scalp along your part, the backs of your hands, and the strip of lower back where the suit gaps when you paddle.
 
@@ -1138,9 +1148,9 @@ Spectral coverage drops down the list because a filter system that has washed of
 
 ## Notes and caveats
 
-- Approval lists and concentration caps change, in both directions — the EU periodically revises caps on the opinion of the SCCS, the EU's Scientific Committee on Consumer Safety (homosalate and benzophenone-3 were both cut in 2022), and the US added its first new filter in 27 years in June 2026 ([The 2026 US approval](#the-2026-us-approval-of-bemotrizinol)). Other filters are pending with FDA through TEAs (applications to add a filter to the US list); check current status rather than assuming this document is still accurate. Verify against the current Annex VI of EC 1223/2009 before treating a cap here as authoritative.
+- Approval lists and concentration caps change, in both directions — the EU periodically revises caps on the opinion of the SCCS, the EU's Scientific Committee on Consumer Safety (homosalate and benzophenone-3 were both cut in 2022), and the US added its first new filter in 27 years in June 2026 ([The 2026 US approval](#the-2026-us-approval-of-bemotrizinol)). Other filters are pending with FDA through TEAs (applications to add a filter to the US list); check current status rather than assuming this document is still accurate. Verify against the EU's current official list of approved UV filters (Annex VI of Regulation EC 1223/2009) before treating a cap here as authoritative.
 - Peak absorbance ≠ protection. Real-world performance depends on concentration, the vehicle, film-forming polymers, and application thickness (2 mg/cm², which almost nobody applies).
-- Product rankings reflect filter systems, concentrations by INCI position, and published SPF/PA/water resistance — not independent lab testing. Where a US label discloses no UVA grade, the rating in [Coverage by band](#coverage-by-band) is inferred from composition and marked † there.
+- Product rankings reflect filter systems, concentrations by INCI position, and published SPF/PA/water resistance — not independent lab testing. Where a US label discloses no UVA grade, the rating in [Coverage by band](#coverage-by-band) is worked out from the ingredients and marked † there.
 - This is a formulation/ingredient reference, not medical advice.
 
 ---
